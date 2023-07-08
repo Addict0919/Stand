@@ -1,0 +1,57 @@
+Model: kanjosj
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 7
+Rear Bumper: 8
+Sideskirt: 9
+Exhaust: 6
+Chassis: 8
+Grille: 10
+Hood: 16
+Fender: 5
+Right Fender: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Trim: 2
+Dashboard: 5
+Seats: 8
+Door Speaker: 7
+Steering Wheel: 16
+Engine Block: 6
+Air Filter: 4
+Struts: 20
+Aerials: 6
+Trim2: 7
+Right Door: 7
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1
+Extra 3: No

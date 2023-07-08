@@ -1,0 +1,56 @@
+Model: blazer5
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 16
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 3
+Chassis: 8
+Hood: 20
+Fender: 7
+Roof: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Vanity Plates: 8
+Trim: 2
+Dashboard: 3
+Seats: 8
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 10
+Struts: 20
+Arch Cover: 8
+Aerials: 6
+Trim2: 15
+Right Door: 1
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,48 @@
+Model: buffalo4
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 8
+Rear Bumper: 2
+Sideskirt: 4
+Exhaust: 8
+Chassis: 1
+Grille: 5
+Hood: 3
+Fender: 0
+Right Fender: 1
+Roof: 13
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 93
+Ornaments: 6
+Trim2: 2
+Tank: 1
+Livery: 3
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1
