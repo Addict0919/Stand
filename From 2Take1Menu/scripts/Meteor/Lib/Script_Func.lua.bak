@@ -1,0 +1,210 @@
+local text_func = require("Meteor/Lib/Text_Func")
+local natives = require("Meteor/Lib/Natives")
+local DataMain = require("Meteor/Data/DataMain")
+
+local script_func = {}
+
+function script_func.get_global_main(pid)
+    return script.get_global_i(1894573 + (1 + (pid * 510) + 608))
+end
+
+function script_func.get_global_9()
+    return script.get_global_i(1923597 + 9)
+end
+
+function script_func.get_global_10()
+    return script.get_global_i(1923597 + 10)
+end
+
+function script_func.get_player_money(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 56)
+end
+
+function script_func.get_player_rank(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 6)
+end
+
+function script_func.get_player_ceo_int(pid)
+    return script.get_global_i(1893551 + 1 + 10 + 104 + (pid * 599))
+end
+
+function script_func.force_script_host()
+	if network.is_session_started() and script.get_host_of_this_script() ~= player.player_id() then
+		if menu.get_feature_by_hierarchy_key("online.lobby.force_script_host") ~= nil then
+			menu.get_feature_by_hierarchy_key("online.lobby.force_script_host"):toggle()
+		end
+		local time = utils.time_ms() + 8000
+		while time > utils.time_ms() and script.get_host_of_this_script() ~= player.player_id() do
+			if player.is_player_valid(player.player_id()) then
+				natives.REQUEST_SCRIPT("freemode")
+				natives.NETWORK_REQUEST_TO_BE_HOST_OF_THIS_SCRIPT()
+			end
+			system.yield(0)
+		end
+		return natives.NETWORK_GET_THIS_SCRIPT_IS_NETWORK_SCRIPT():__tointeger()
+	end
+end
+
+function script_func.get_player_kd(pid)
+    return script.get_global_f(1853131 + (1 + (pid * 888)) + 205 + 26)
+end
+
+function script_func.get_player_deaths(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 29)
+end
+
+function script_func.get_player_kills(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 28)
+end
+
+function script_func.get_player_wallet(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 3)
+end
+
+function script_func.get_player_bank(pid)
+    return script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 56) - script.get_global_i(1853131 + (1 + (pid * 888)) + 205 + 3)
+end
+
+function script_func.script_event_kick(pid)
+	if player.is_player_valid(pid) then
+		script.trigger_script_event(0xF5F36157, pid, {player.player_id(), math.random(32, 2147483647), math.random(-2147483647, 2147483647), 1, 115, math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647)})
+		system.wait(1)
+	end
+end
+
+function script_func.script_event_crash(pid)
+	if player.is_player_valid(pid) then
+        script.trigger_script_event(879177392, pid, {pid, math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647), math.random(-2147483647, 2147483647)})
+        script.trigger_script_event(-2113023004, pid, {-1, -1,0,0,-20,1000})
+        script.trigger_script_event(-1056683619, pid, {-1, -1})
+        script.trigger_script_event(1757755807, pid, {-1, -1})
+        script.trigger_script_event(1258808115, pid, {-1, -1})
+        script.trigger_script_event(-786546101, pid, {-1, -1})	
+		system.wait(1)
+	end
+end
+
+function script_func.Bounty(pid)
+    for i = 1, 31 do
+        if player.is_player_valid(i) then
+		   script.trigger_script_event(1370461707, i, {player.player_id(), pid, 1, 10000, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, script_func.get_global_9(), script_func.get_global_10()})
+        end
+    end
+end
+
+function script_func.aptt(pid)
+    for i = 1, 31 do
+        if player.is_player_valid(i) then
+		  script.trigger_script_event(0xF5F36157, pid, {pid, pid, 4294967295, 1, 115, 0, 0, 0, i})
+        end
+    end
+end
+
+function script_func.is_player_in_any_org(pid)
+    if player.is_player_valid(pid) then
+        if script.get_global_i(1893551 + (1 + (pid * 599)) + 10) ~= -1 then
+            return true
+        else
+            return false
+        end
+    else
+        return false
+    end
+end
+1894573 + 1 + 10
+function script_func.is_player_associate(pid)
+    if player.is_player_valid(pid) then
+        if script.get_global_i(1894573 + (1 + (pid * 10)) + 608) ~= -1 and script.get_global_i(1894573 + (1 + (pid * 10)) + 608) ~= pid then
+            return true
+        else
+            return false
+        end
+    else
+        return false
+    end
+end
+
+function script_func.is_player_otr(pid)
+    if player.is_player_valid(pid) then
+        if script.get_global_i(2657589 + (1 + (pid * 210)) + 466) == 1 then
+            return true
+        else
+            return false
+        end
+    else
+        return false
+    end
+end
+
+function script_func.get_player_money_str(pid)
+	local money = script_func.get_player_money(pid)
+	local money_str = tostring("$ ")
+	if money >= 1000000000 then
+		money = money / 1000000000
+		money_str = money_str .. money .. " B"
+	elseif money >= 1000000 then
+		money = money / 1000000
+		money_str = money_str .. money .. " M"
+	elseif money >= 1000 then
+		money = money / 1000
+		money_str = money_str .. money .. " K"
+	else
+		money_str = money_str .. money
+	end
+	return money_str
+end
+
+function script_func.send_to_brazil(pid)
+	if player.is_player_valid(pid) then
+		system.wait(1)
+		script.trigger_script_event(-910497748, pid, {player.player_id(), pid, pid, 3, 1})
+		system.wait(1)
+		for i = 1, 27 do
+			script.trigger_script_event(962740265, pid, {player.player_id(), i})
+			system.wait(1)
+		end
+		script.trigger_script_event(-910497748, pid, {player.player_id(), pid, pid, 4, 0})
+		system.wait(1)
+		for i = 1, 22 do
+			script.trigger_script_event(-446275082, pid, {player.player_id(), 0, 1, i})
+			system.wait(1)
+		end
+		script.trigger_script_event(603406648, pid, {player.player_id(), pid, pid, pid, 86})
+		system.wait(1)
+		for i = 1, 114 do
+			script.trigger_script_event(603406648, pid, {player.player_id(), pid, pid, pid, i})
+			system.wait(1)
+		end
+		for i = 1, 22 do
+			script.trigger_script_event(-1578682814, pid, {player.player_id(), 0, 1, i})
+			system.wait(1)
+			script.trigger_script_event(-1424012222, pid, {player.player_id(), 0, 1, i})
+			system.wait(1)
+		end
+		for i = 0, 7 do
+			script.trigger_script_event(2020588206, pid, {player.player_id(), i})
+			system.wait(1)
+		end
+		for i = 1, 7 do
+			script.trigger_script_event(0x786FBAAE, pid, {player.player_id(), math.random(1, 7)})
+			system.wait(1)
+		end
+		for i = 1, 12 do
+			script.trigger_script_event(0x786FBAAE, pid, {player.player_id(), math.random(1, 7)})
+			system.wait(1)
+		end
+		script.trigger_script_event(1463943751, pid, {player.player_id()})
+		system.wait(1)
+		script.trigger_script_event(1463943751, pid, {player.player_id(), pid, pid, 3, 0})
+		system.wait(1)
+		script.trigger_script_event(1463943751, pid, {player.player_id(), pid, pid, 4, 1})
+		system.wait(1)
+		script.trigger_script_event(1463943751, pid, {player.player_id(), pid, pid, 3, 1})
+		system.wait(1)
+		script.trigger_script_event(1463943751, pid, {player.player_id(), pid, pid, 3, 1})
+		system.wait(1)
+		script.trigger_script_event(-621279188, pid, {player.player_id(), 1})
+	end
+end
+
+return script_func

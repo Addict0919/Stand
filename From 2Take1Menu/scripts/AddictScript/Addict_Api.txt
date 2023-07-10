@@ -1,0 +1,49 @@
+Entitys
+
+entity_func.delete_locally(Entity) [Deletes Entity Locally only]
+
+entity_func.hard_remove_entity(Entity) [Deletes Entitys]
+
+entity_func.max_vehicle(vehicle_) [Upgrades The Vehicle]
+
+entity_func.downgrade_vehicle(vehicle_) [Downgrades The Vehicle]
+
+entity_func.create_orbital_cannon_explosion(Position, isNamed) [Creates A Orbital Cannon Explosion]
+
+entity_func.create_nuke_explosion(Position, Named) [Drops a Nuke]
+
+Player
+
+script_func.get_player_races_won(pid) [Shows how many races the player has won]
+
+script_func.get_player_races_lost(pid) [Shows how many races the player has lost]
+
+script_func.get_player_races_lost(pid) [Shows how many races the player has lost]
+
+script_func.get_player_deathmatch_won(pid) [Shows how many deathmatchs the player has won]
+
+script_func.get_player_deathmatch_lost(pid) [Shows how many deathmatchs the player has lost]
+
+script_func.get_player_missions_created(pid) [Shows how many missions the player has created]
+
+script_func.is_player_otr(pid) [Shows if the player is off the radar]
+
+script_func.get_player_money_str(pid) [Shows how much money the player has]
+
+script_func.get_player_rank(pid) [Gets the players rank]
+
+script_func.get_prostitutes_solicited(pid) [Shows how many prostitutes the player has solicited]
+
+script_func.get_lapdances_amount(pid) [Shows how many lapdances the player has had]
+
+script_func.get_player_kd(pid) [Gets the players kd]
+
+script_func.get_player_deaths(pid) [Shows how many times the player has died]
+
+script_func.get_player_kills(pid) [Shows how many people the player has killed]
+
+script_func.get_player_kills(pid) [Shows how many people the player has killed]
+
+script_func.script_event_crash(pid) [Sends a crash event]
+
+script_func.script_event_kick(pid) [Sends a kick event]

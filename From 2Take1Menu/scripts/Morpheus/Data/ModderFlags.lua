@@ -1,0 +1,26 @@
+return {
+	["Invalid Info"] = player.add_modder_flag("Invalid Info"),
+	["Modded Health"] = player.add_modder_flag("Modded Health"),
+	["Modded Armor"] = player.add_modder_flag("Modded Armor"),
+	["Off The Radar"] = player.add_modder_flag("Off The Radar"),
+	["Modded Spectate"] = player.add_modder_flag("Modded Spectate"),
+	["Invalid Stats"] = player.add_modder_flag("Invalid Stats"), 
+	["Altered Migration"] = player.add_modder_flag("Altered Migration"),
+	["Invalid Script Execution"] = player.add_modder_flag("Invalid Script Execution"),
+	["Teleportation"] = player.add_modder_flag("Teleportation"),
+	["Modded Event"] = player.add_modder_flag("Modded Event"),
+	["Modded Explosion"] = player.add_modder_flag("Modded Explosion"),
+	["Modded Movement"] = player.add_modder_flag("Modded Movement"),
+	["World Entity Control"] = player.add_modder_flag("World Entity Control"),
+	["Scripted Entity Spawn"] = player.add_modder_flag("Scripted Entity Spawn"),
+	["Crash"] = player.add_modder_flag("Crash"),
+	["Max Speed Bypass"] = player.add_modder_flag("Max Speed Bypass"),
+	["Modded Weapons"] = player.add_modder_flag("Modded Weapons"),
+	["Modded Scenario"] = player.add_modder_flag("Modded Scenario"),
+	["Modded Vehicle"] = player.add_modder_flag("Modded Vehicle"),
+	["Cheater"] = player.add_modder_flag("Cheater"),
+	["Player Godmode"] = player.add_modder_flag("Player Godmode"),
+	["Vehicle Godmode"] = player.add_modder_flag("Vehicle Godmode"),
+	["Profanity Filter Bypass"] = player.add_modder_flag("Profanity Filter Bypass")
+}
+

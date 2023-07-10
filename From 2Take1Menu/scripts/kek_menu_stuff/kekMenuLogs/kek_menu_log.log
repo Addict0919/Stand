@@ -1,0 +1,497 @@
+
+
+[Tue Jul 26 20:46:26 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [clever_bot = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\kekMenuD (table)
+		[u] = [ai_drive = Feat(00000191F93AE790: Ai driving), kekMenu = 2296, modder_flag_setting_properties = [Lo (table)
+		[player_feat_ids] = [] (table)
+		[language] = [version = "1.0.0", lang = [Modder logging settings = "Modder logging settings", Industrial = "Indus (table)
+		[settings] = [update_user_entity_feats = function: 000001920FC993D0, toggle = [weapon_blacklist_Assault Shotgun = (table)
+		[lang] = [Modder logging settings = "Modder logging settings", Industrial = "Industrial", Protections = "Prot (table)
+		[essentials] = [remove_lines_from_file_substring = function: 000001920FC9AA80, unpack_3_nums = function: 000001920F (table)
+		[memoize] = [is_in_vehicle = function: 000001920F93F2B0, get_entity_coords = function: 000001920F93F8F0, get_dis (table)
+		[enums] = [supported_langs_by_google_to_code = [Javanese = "jv", Catalan = "ca", Hungarian = "hu", Chinese (Tr (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [get_player_wallet = function: 000001921086D870, player_global_indices = [], get_player_kd = functio (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [get_vector_relative_to_entity = function: 0000019210758820, get_entity_proofs = function: 000001921 (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 00000192105856D0, year_parents = [C:\Users\mille\AppData\Roaming\PopstarDe (table)
+		[keks_custom_modder_flags] = [Has-Suspicious-Stats = 68719476736, Godmode = 137438953472, Blacklist = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 00000192101ED070 (function)
+		[remove_from_blacklist] = function: 00000192101ECF80 (function)
+		[vehicle_effect_standard] = function: 00000192101EFA00 (function)
+		[gravity] = Feat(000001921082B6A0: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(000001921082B790: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 000001921077F010 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFD9FD09A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 03:49:37 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [kek_menu_stuff = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\", k (table)
+		[u] = [chat_spammer = Feat(0000020DCCBAB030: Chat spamming), protections = Feat(0000020DCCBAB140: Protecti (table)
+		[player_feat_ids] = [] (table)
+		[language] = [translate_text = function: 0000020E4CB802A0, lang = [Crash = "Crash", Random = "Random", Reapply ma (table)
+		[settings] = [add_setting = function: 0000020F499E9370, valuef = [], drive_style_toggles = [], save = function: 0 (table)
+		[lang] = [Crash = "Crash", Random = "Random", Reapply marks = "Reapply marks", Ped limit = "Ped limit", Kill  (table)
+		[essentials] = [const = function: 0000020F499E9C70, get_time_plus_frametime = function: 0000020F499E9730, get_rgb = (table)
+		[memoize] = [get_entity_coords = function: 0000020C9A50B6E0, v3 = function: 0000020D3AB1A7A0, get_all_vehicles = (table)
+		[enums] = [vehicle_seats = [right_rear = 2, extra_seat_18 = 20, extra_seat_9 = 11, extra_seat_4 = 6, extra_sea (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [get_script_event_hash = function: 0000020ECAD364B0, script_event_crash = function: 0000020ECAD36E30 (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [spawn_car = function: 0000020EEB66CFF0, get_all_attached_entities = function: 0000020D3AB024A0, spa (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [searched_players = [], month_parents = [C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scrip (table)
+		[keks_custom_modder_flags] = [Godmode = 68719476736, Has-Suspicious-Stats = 137438953472, Blacklist = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 0000020EDA386000 (function)
+		[remove_from_blacklist] = function: 0000020EDA386910 (function)
+		[vehicle_effect_standard] = function: 0000020EDA3893E0 (function)
+		[gravity] = Feat(0000020E193DBE50: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(0000020E193DBF40: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 0000020EB2C30340 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDB9C19A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 16:05:42 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [kek_menu_logs = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\kekMe (table)
+		[u] = [vehicle_blacklist = Feat(000002D4B4A0FA40: Vehicle blacklist), self_options = Feat(000002D4B4A0DFB0 (table)
+		[player_feat_ids] = [] (table)
+		[language] = [what_language = "English.txt", translate_text = function: 000002D3E6ABFCE0, lang = [Chat spamming = (table)
+		[settings] = [add_setting = function: 000002D49CB01B80, update_user_entity = function: 000002D49BEC3330, update_u (table)
+		[lang] = [Chat spamming = "Chat spamming", Melee = "Melee", Vehicle blacklist = "Vehicle blacklist", Throwabl (table)
+		[essentials] = [modder_text_to_flags = function: 000002D49CB03650, round = function: 000002D49CB03F50, sub_unicode_ (table)
+		[memoize] = [get_all_pickups = function: 000002D4D857F230, get_player_coords = function: 000002D4D857E8D0, is_in (table)
+		[enums] = [relationship_relation_ids = [Respect = 1, Like = 2, Hate = 5, Pedestrians = 255, Dislike = 4, Neutr (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [disable_vehicle = function: 000002D515042970, get_player_bank = function: 000002D4F98BFA20, get_pla (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [get_rotated_heading = function: 000002D436D90260, get_net_objects = function: 000002D436D90470, spa (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 000002D515251DE0, sort_numbers = function: 000002D51518A020, year_parents  (table)
+		[keks_custom_modder_flags] = [Has-Suspicious-Stats = 68719476736, Blacklist = 137438953472, Godmode = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 000002D51516C900 (function)
+		[remove_from_blacklist] = function: 000002D51516D7B0 (function)
+		[vehicle_effect_standard] = function: 000002D51516FEC0 (function)
+		[gravity] = Feat(000002D37D26B370: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(000002D37D26BDC0: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 000002D5152A7CE0 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDB9D39A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 16:10:22 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [player_history_all_players = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_men (table)
+		[u] = [profiles = Feat(00000150A13C1130: Settings), flagsTolog = Feat(00000150A13C3660: Modder logging set (table)
+		[player_feat_ids] = [] (table)
+		[language] = [lang = [Clear search list = "Clear search list", Spawn vehicles maxed = "Spawn vehicles maxed", Has (table)
+		[settings] = [default = [weapon_blacklist_Combat MG Mk II = false, Log people with Net Array Crash = false, Exclu (table)
+		[lang] = [Clear search list = "Clear search list", Spawn vehicles maxed = "Spawn vehicles maxed", Has Negativ (table)
+		[essentials] = [unpack_3_nums = function: 00000150ABC65B60, binary_search = function: 00000150ABC65BF0, name_to_pid (table)
+		[memoize] = [get_all_vehicles = function: 00000150A8643040, get_all_pickups = function: 00000150A8643090, v3 = f (table)
+		[enums] = [supported_langs_by_google = [1 = "English", 2 = "Chinese (Simplified)", 3 = "Chinese (Traditional)" (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [get_player_global = function: 00000150AF8658B0, script_event_crash = function: 00000150AF865A70, fo (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [spawn_local_object = function: 00000150A8647C30, add_rope_between_entities = function: 00000150AF51 (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 00000150AFA82DE0, players_added_to_history = [|Kingmicthenoob| &212503763& (table)
+		[keks_custom_modder_flags] = [Godmode = 68719476736, Blacklist = 137438953472, Has-Suspicious-Stats = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 0000014FA1E650C0 (function)
+		[remove_from_blacklist] = function: 0000014FA1E652F0 (function)
+		[vehicle_effect_standard] = function: 00000150AFA54F00 (function)
+		[gravity] = Feat(0000014FA1E04750: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(0000014FA1E04660: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 00000150A1BDC560 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDBB459A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 19:09:22 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [chat_spam_text = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\kekM (table)
+		[u] = [player_vehicle_features = 2, toggle_script_loader = Feat(00000150BBB57430: Turn on script loader),  (table)
+		[player_feat_ids] = [] (table)
+		[language] = [version = "1.0.0", lang = [Kick: = "Kick:", Helicopters = "Helicopters", Always spawn with f1 wheel (table)
+		[settings] = [version = "1.0.2", drive_style_toggles = [], default = [Kick people with Super Run = false, Auto tp (table)
+		[lang] = [Kick: = "Kick:", Helicopters = "Helicopters", Always spawn with f1 wheels = "Always spawn with f1 w (table)
+		[essentials] = [parse_xml = function: 00000150B9A81C10, get_position_of_previous_newline = function: 00000150BA6367 (table)
+		[memoize] = [version = "1.0.1", get_all_peds = function: 00000150BA527960, get_entity_coords = function: 0000015 (table)
+		[enums] = [version = "1.0.5", ped_config_flags = [OnStairs = 253, IsAgitated = 183, OnMount = 63, ForcePedLoad (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [version = "1.3.5", get_player_money = function: 00000150AF503EA0, GENERIC_ARG_HASHES = [], is_fully (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [create_cage = function: 00000150BA51D640, request_model = function: 00000151E9220F10, remove_player (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 00000150BAD57B90, year_parents = [C:\Users\mille\AppData\Roaming\PopstarDe (table)
+		[keks_custom_modder_flags] = [Has-Suspicious-Stats = 274877906944, Godmode = 68719476736, Blacklist = 137438953472] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 00000150BBE50C90 (function)
+		[remove_from_blacklist] = function: 00000150BBE4FF70 (function)
+		[vehicle_effect_standard] = function: 0000015068E63A60 (function)
+		[gravity] = Feat(00000150BBB58240: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(00000150BBB5C980: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 00000152599520C0 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDBB459A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 19:09:37 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [chat_spam_text = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\kekM (table)
+		[u] = [search_features = Feat(00000150C348ED00: Search features from all luas loaded), gvehicle = Feat(000 (table)
+		[player_feat_ids] = [] (table)
+		[language] = [version = "1.0.0", translate_text = function: 00000150ABCBAB20, what_language = "English.txt", lang (table)
+		[settings] = [version = "1.0.2", valuei = [Blacklist option = Feat(00000150AFAE12F0: Blacklist), Horn boost speed (table)
+		[lang] = [Give nearby cars godmode = "Give nearby cars godmode", Hurricane = "Hurricane", Chat = "Chat", Driv (table)
+		[essentials] = [time_to_float = function: 00000150E0C6C440, get_max_variadic = function: 00000150E0C6CCB0, binary_s (table)
+		[memoize] = [version = "1.0.1", get_distance_between = function: 00000150BAC2AA30, get_all_peds = function: 0000 (table)
+		[enums] = [supported_langs_by_google_to_name = [mk = "Macedonian", ig = "Igbo", kk = "Kazakh", mg = "Malagasy" (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [get_player_deaths = function: 00000150A74C85E0, get_player_wallet = function: 00000150A74C8EE0, pla (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [teleport_player_and_vehicle_to_position = function: 00000150AFA6D6E0, get_paint_type = function: 00 (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [year_parents = [C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\Player (table)
+		[keks_custom_modder_flags] = [Blacklist = 137438953472, Godmode = 68719476736, Has-Suspicious-Stats = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 00000150BA611500 (function)
+		[remove_from_blacklist] = function: 00000150BA611550 (function)
+		[vehicle_effect_standard] = function: 00000150BA6151A0 (function)
+		[gravity] = Feat(00000150AFAE8A00: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(00000150AFAEA080: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 000001515F78DD40 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDBB459A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Wed Jul 27 19:10:01 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [chat_bot = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\scripts\kek_menu_stuff\kekMenuDat (table)
+		[u] = [weapon_blacklist = Feat(00000150A7B1F0F0: Weapon blacklist), player_trolling_features = 1338, prote (table)
+		[player_feat_ids] = [] (table)
+		[language] = [translate_text = function: 00000150BA1A3E30, lang = [Failed to check what the latest version of the (table)
+		[settings] = [initialize = function: 0000015287E3D8F0, drive_style_toggles = [], default = [Log people with Bad P (table)
+		[lang] = [Failed to check what the latest version of the script is. = "Failed to check what the latest versio (table)
+		[essentials] = [how_many_people_named = function: 00000150BB13D5B0, unpack_3_nums = function: 0000015287E3D6E0, use (table)
+		[memoize] = [get_all_peds = function: 00000150ABCF7310, v2 = function: 00000150BB1460B0, v3 = function: 00000150 (table)
+		[enums] = [inputs = [E L3 = 351, T DPAD DOWN = 309, F11 DPAD RIGHT = 344, F9 Y = 56, (NONE)	RIGHT STICK = 3, B (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [NOTIFICATION_HASHES_RAW = [], send_script_event = function: 00000150A74654E0, CRASH_NAMES = [1 = "F (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [get_entity_proofs = function: 0000014FA7F88C60, vehicle_get_vec_rel_to_dims = function: 00000150BA5 (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 00000150A7BB5E30, searched_players = [], hour_parents = [C:\Users\mille\Ap (table)
+		[keks_custom_modder_flags] = [Has-Suspicious-Stats = 274877906944, Blacklist = 137438953472, Godmode = 68719476736] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 00000150BBE811B0 (function)
+		[remove_from_blacklist] = function: 00000150BBE81BB0 (function)
+		[vehicle_effect_standard] = function: 00000150BBE84360 (function)
+		[gravity] = Feat(00000150A797C070: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(00000150A797ED70: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 00000150BBAF9660 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FFDBB459A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>
+
+[Thu Jul 28 12:32:23 2022]: < Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ > [Kek's menu version: 0.4.8.0 beta 12]
+
+	Locals at level 2:
+		[bool] = nil (nil)
+		[msg] = Missing information about a valid, requested vehicle hash:
+Extra info:
+15214558
+ (string)
+		[n_args] = 1 (integer)
+	Locals at level 3:
+		[hash] = 15214558 (integer)
+	Locals at level 4:
+		[paths] = [home = "C:\Users\mille\AppData\Roaming\PopstarDevs\2Take1Menu\", chat_spam_text = "C:\Users\mille\A (table)
+		[u] = [weapon_blacklist = Feat(000002875A3BD410: Weapon blacklist), custom_chat_judger = Feat(000002875A3B (table)
+		[player_feat_ids] = [] (table)
+		[language] = [version = "1.0.0", what_language = "English.txt", translate_text = function: 000002875D90FD40, lang (table)
+		[settings] = [valuei = [Blacklist option = Feat(0000028629330240: Blacklist), Auto kicker notifications = Feat(00 (table)
+		[lang] = [Boats = "Boats", Check name in also known as = "Check name in also known as", Sports classics = "Sp (table)
+		[essentials] = [log_error = function: 000002875FA01180, are_all_lines_pattern_valid = function: 000002876002A910, g (table)
+		[memoize] = [get_all_vehicles = function: 000002875FA00910, get_all_peds = function: 000002875FA00A50, get_playe (table)
+		[enums] = [supported_langs_by_google_to_code = [Xhosa = "xh", Czech = "cs", Hausa = "ha", Tamil = "ta", Hmong  (table)
+		[weapon_mapper] = [] (table)
+		[location_mapper] = [] (table)
+		[keys_and_input] = [] (table)
+		[drive_style_mapper] = [] (table)
+		[globals] = [force_player_into_vehicle = function: 000002875D89B650, set_bounty = function: 000002875FA09240, ge (table)
+		[vehicle_mapper] = [] (table)
+		[ped_mapper] = [] (table)
+		[object_mapper] = [] (table)
+		[menyoo] = [] (table)
+		[kek_entity] = [entity_manager = [flag_to_str = [64 = "vehicle", 256 = "object", 128 = "ped"], entities = [], count (table)
+		[troll_entity] = [] (table)
+		[custom_upgrades] = [] (table)
+		[admin_mapper] = [] (table)
+		[menyoo_saver] = [] (table)
+		[natives] = [version = "1.0.1"] (table)
+		[player_history] = [add_features = function: 000002875A973AD0, searched_players = [], year_parents = [C:\Users\mille\Ap (table)
+		[keks_custom_modder_flags] = [Godmode = 68719476736, Has-Suspicious-Stats = 137438953472, Blacklist = 274877906944] (table)
+		[modIdStuff] = [1 = 1, 2 = 2, 3 = 4, 4 = 8, 5 = 16, 6 = 32, 7 = 64, 8 = 128, 9 = 256, 10 = 512, 11 = 1024, 12 = 204 (table)
+		[add_to_blacklist] = function: 000002875B9C1140 (function)
+		[remove_from_blacklist] = function: 000002875B9C0650 (function)
+		[vehicle_effect_standard] = function: 000002875B9C44D0 (function)
+		[gravity] = Feat(00000286293309C0: Gravity) (userdata)
+		[swap_nearby_to_police] = Feat(0000028629331140: Swap nearby vehicles to police) (userdata)
+		[disable_weapons] = function: 00000287611CB800 (function)
+		[vehicle_blacklist_reactions] = [1 = "Turned off", 2 = "EMP", 3 = "Kick from vehicle", 4 = "Explode", 5 = "Ram", 6 = "Glitch", 7 = " (table)
+		[vehicle_blacklist_reaction_names] = [] (table)
+		[(for state)] = function: 00007FF97B7F9A60 (function)
+		[(for state)] = [1 = 2196012677, 2 = 1118611807, 3 = 1644055914, 4 = 1682114128, 5 = 1239571361, 6 = 15214558, 7 = 3 (table)
+		[(for state)] = 6 (integer)
+		[(for state)] = nil (nil)
+		[_] = 6 (integer)
+		[hash] = 15214558 (integer)
+
+stack traceback:
+	...\scripts\kek_menu_stuff\kekMenuLibs\Kek's Essentials.lua:53: in function 'Kek's Essentials.assert'
+	...ipts\kek_menu_stuff\kekMenuLibs\Kek's Vehicle mapper.lua:4582: in field 'GetModelFromHash'
+	...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:3039: in function <...ta\Roaming\PopstarDevs\2Take1Menu\scripts\Kek's menu.lua:13>

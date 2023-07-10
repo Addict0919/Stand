@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.disable": [
+        "undefined-global",
+        "param-type-mismatch",
+        "need-check-nil"
+    ],
+    "Lua.diagnostics.globals": [
+        "commandList"
+    ]
+}
