@@ -1,0 +1,3 @@
+colorselec = 25
+teamchatlabel = "Team"
+allchatlabel = "All"

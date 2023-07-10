@@ -1,0 +1,45 @@
+Model: corsita
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 32
+Wheel Colour: 71
+Wheel Type: 10
+Spoiler: 13
+Front Bumper: 10
+Rear Bumper: 9
+Sideskirt: 3
+Exhaust: 5
+Chassis: 3
+Grille: 8
+Hood: 13
+Fender: 2
+Right Fender: 4
+Roof: 14
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 2
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 1
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

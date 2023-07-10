@@ -1,0 +1,36 @@
+Model: khanjali
+Plate Style: 0
+Plate Text: 83GFX487
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 68
+Wheel Colour: 156
+Wheel Type: 10
+Chassis: 1
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Horns: 43
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 92
+Vanity Plates: 1
+Livery: 28
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 27
+Dashboard Colour: 132
+Tyres Mode: 1

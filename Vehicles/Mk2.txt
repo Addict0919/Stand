@@ -1,0 +1,35 @@
+Model: oppressor2
+Plate Style: 0
+Plate Text: 78GVK904
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 87
+Wheel Colour: 112
+Wheel Type: 6
+Chassis: 1
+Grille: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 0
+Front Wheels: 0
+Back Wheels: 0
+Livery: 18
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #2d233c
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 93
+Dashboard Colour: 93
+Tyres Mode: 1

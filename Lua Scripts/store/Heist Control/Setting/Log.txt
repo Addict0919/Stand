@@ -1,0 +1,687 @@
+[06/06/2022 04:24:02 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/06/2022 04:24:10 PM] Good bye, thank you for using HC! :D
+[06/06/2022 04:24:32 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/06/2022 04:24:47 PM] Good bye, thank you for using HC! :D
+[06/08/2022 04:52:52 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/08/2022 05:20:49 PM] Good bye, thank you for using HC! :D
+[06/09/2022 01:34:40 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/09/2022 02:06:23 AM] Good bye, thank you for using HC! :D
+[06/09/2022 08:06:26 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/09/2022 08:23:37 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/09/2022 08:32:38 PM] Good bye, thank you for using HC! :D
+[06/10/2022 02:29:28 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/10/2022 11:24:22 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/10/2022 11:27:35 PM] Good bye, thank you for using HC! :D
+[06/10/2022 11:29:40 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/11/2022 12:16:33 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/11/2022 12:27:14 AM] Good bye, thank you for using HC! :D
+[06/11/2022 12:27:15 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/11/2022 12:46:35 AM] Good bye, thank you for using HC! :D
+[06/11/2022 12:46:49 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/11/2022 12:47:01 AM] Good bye, thank you for using HC! :D
+[06/12/2022 02:57:31 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/12/2022 03:11:45 AM] Good bye, thank you for using HC! :D
+[06/12/2022 03:11:49 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/12/2022 03:19:25 AM] Good bye, thank you for using HC! :D
+[06/12/2022 03:29:11 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/12/2022 03:36:04 AM] Good bye, thank you for using HC! :D
+[06/12/2022 03:37:50 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/12/2022 03:40:19 AM] Good bye, thank you for using HC! :D
+[06/13/2022 05:00:13 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/13/2022 05:45:12 PM] Sucessfully set!
+
+Day: 0
+Hour: 50000
+Min: 0
+[06/13/2022 05:47:30 PM] You didn't input the value. Please input it!
+[06/13/2022 05:49:12 PM] Good bye, thank you for using HC! :D
+[06/13/2022 08:18:36 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/13/2022 08:31:04 PM] Good bye, thank you for using HC! :D
+[06/13/2022 08:31:24 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/13/2022 08:42:10 PM] Good bye, thank you for using HC! :D
+[06/13/2022 08:42:43 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/13/2022 08:52:22 PM] Good bye, thank you for using HC! :D
+[06/13/2022 08:55:51 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/14/2022 05:22:10 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/14/2022 05:40:39 PM] Good bye, thank you for using HC! :D
+[06/14/2022 06:23:35 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/14/2022 07:03:42 PM] Cayo Perico Heist - Cooldown time passed, you can play the heist again!
+[06/14/2022 07:20:59 PM] Good bye, thank you for using HC! :D
+[06/14/2022 07:21:34 PM] Good bye, thank you for using HC! :D
+[06/14/2022 07:25:32 PM] Good bye, thank you for using HC! :D
+[06/15/2022 06:05:17 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/15/2022 07:24:32 PM] Good bye, thank you for using HC! :D
+[06/16/2022 11:16:10 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/16/2022 11:19:48 AM] Good bye, thank you for using HC! :D
+[06/16/2022 11:28:23 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/16/2022 11:32:23 AM] Good bye, thank you for using HC! :D
+[06/16/2022 11:41:30 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (5)
+[06/16/2022 12:08:40 PM] Good bye, thank you for using HC! :D
+[06/17/2022 12:59:25 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/17/2022 01:03:03 PM] Good bye, thank you for using HC! :D
+[06/17/2022 02:08:09 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/17/2022 02:08:12 PM] Good bye, thank you for using HC! :D
+[06/17/2022 02:08:14 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/17/2022 02:16:01 PM] Good bye, thank you for using HC! :D
+[06/17/2022 02:16:21 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/17/2022 02:20:31 PM] Good bye, thank you for using HC! :D
+[06/17/2022 04:41:50 PM] Stand can't get latest version info of HC.
+
+HC website currently has connection issue.
+[06/17/2022 04:44:19 PM] Good bye, thank you for using HC! :D
+[06/17/2022 06:18:52 PM] Stand can't get latest version info of HC.
+
+HC website currently has connection issue.
+[06/17/2022 06:23:04 PM] Good bye, thank you for using HC! :D
+[06/17/2022 06:25:00 PM] Stand can't get latest version info of HC.
+
+HC website currently has connection issue.
+[06/17/2022 06:30:39 PM] Stand can't get latest version info of HC.
+
+HC website currently has connection issue.
+[06/17/2022 06:36:42 PM] Good bye, thank you for using HC! :D
+[06/17/2022 06:37:12 PM] Stand can't get latest version info of HC.
+
+HC website currently has connection issue.
+[06/17/2022 06:37:15 PM] Good bye, thank you for using HC! :D
+[06/17/2022 06:37:47 PM] Good bye, thank you for using HC! :D
+[06/17/2022 06:40:37 PM] Good bye, thank you for using HC! :D
+[06/18/2022 03:16:32 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/18/2022 03:16:43 PM] Good bye, thank you for using HC! :D
+[06/18/2022 06:37:16 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:37:23 PM] Good bye, thank you for using HC! :D
+[06/18/2022 06:45:37 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:45:38 PM] Good bye, thank you for using HC! :D
+[06/18/2022 06:46:31 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[06/18/2022 06:46:31 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:46:35 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[06/18/2022 06:46:35 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:46:38 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[06/18/2022 06:46:38 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:46:41 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[06/18/2022 06:46:41 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:46:44 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[06/18/2022 06:46:44 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:13 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:22 PM] Good bye, thank you for using HC! :D
+[06/18/2022 06:48:54 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:54 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:56 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:56 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:57 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:57 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:57 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:57 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:57 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:57 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:58 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:58 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:58 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:58 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:58 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:58 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:48:59 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:48:59 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:49:22 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:49:22 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:49:22 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:49:22 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:49:27 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:49:27 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:49:28 PM] Heist Control Version: V 3.0.0 Beta - (6)
+[06/18/2022 06:49:28 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[06/18/2022 06:50:02 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/18/2022 07:06:40 PM] Good bye, thank you for using HC! :D
+[06/19/2022 08:03:40 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 02:03:29 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 02:33:10 PM] Good bye, thank you for using HC! :D
+[06/20/2022 02:51:56 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 03:27:05 PM] Good bye, thank you for using HC! :D
+[06/20/2022 07:16:07 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 07:57:41 PM] Cayo Perico Heist - Cooldown time passed, you can play the heist again!
+[06/20/2022 08:19:38 PM] Good bye, thank you for using HC! :D
+[06/20/2022 08:20:07 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 08:42:11 PM] Good bye, thank you for using HC! :D
+[06/20/2022 08:54:57 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/20/2022 09:15:10 PM] Good bye, thank you for using HC! :D
+[06/25/2022 06:08:59 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/25/2022 06:18:23 PM] Good bye, thank you for using HC! :D
+[06/25/2022 06:22:09 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/25/2022 06:39:08 PM] Good bye, thank you for using HC! :D
+[06/26/2022 01:32:53 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/26/2022 02:00:42 PM] Good bye, thank you for using HC! :D
+[06/26/2022 08:18:19 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/26/2022 08:55:31 PM] Cayo Perico Heist - Cooldown time passed, you can play the heist again!
+[06/26/2022 09:03:13 PM] Good bye, thank you for using HC! :D
+[06/26/2022 09:03:46 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/26/2022 09:57:27 PM] Cayo Perico Heist - Cooldown time passed, you can play the heist again!
+[06/26/2022 11:42:03 PM] Good bye, thank you for using HC! :D
+[06/27/2022 12:03:49 AM] Good bye, thank you for using HC! :D
+[06/27/2022 12:10:36 AM] Good bye, thank you for using HC! :D
+[06/27/2022 12:11:47 AM] Good bye, thank you for using HC! :D
+[06/27/2022 11:57:07 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[06/27/2022 11:58:26 PM] Good bye, thank you for using HC! :D
+[06/28/2022 01:23:40 AM] Good bye, thank you for using HC! :D
+[06/29/2022 07:29:18 PM] Good bye, thank you for using HC! :D
+[07/03/2022 10:28:36 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (6)
+[07/03/2022 10:37:51 PM] Good bye, thank you for using HC! :D
+[07/05/2022 11:27:11 PM] Good bye, thank you for using HC! :D
+[07/15/2022 01:15:41 AM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (7)
+[07/15/2022 01:15:42 AM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 09:38:16 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 09:38:17 PM] Good bye, thank you for using HC! :D
+[07/17/2022 09:38:19 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 09:44:50 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 09:47:30 PM] Sucessfully set!
+
+Day: 0
+Hour: 0
+Min: 0
+[07/17/2022 09:50:02 PM] Sucessfully set!
+
+Day: 9567
+Hour: 3
+Min: 2
+[07/17/2022 09:56:25 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (6)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 09:58:48 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (5)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 10:47:36 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 10:47:36 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 10:47:40 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 10:47:40 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 10:47:42 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 10:47:42 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 10:47:45 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 10:52:17 PM] Good bye, thank you for using HC! :D
+[07/17/2022 10:59:56 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 10:59:56 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 10:59:59 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 10:59:59 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 11:00:05 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 11:01:29 PM] Good bye, thank you for using HC! :D
+[07/17/2022 11:01:56 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 11:01:56 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 11:02:01 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 11:03:05 PM] Good bye, thank you for using HC! :D
+[07/17/2022 11:11:58 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/17/2022 11:11:58 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/17/2022 11:12:00 PM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0 Beta - (7)
+[07/17/2022 11:14:46 PM] You didn't input the value. Please input it!
+[07/17/2022 11:14:53 PM] You didn't input the value. Please input it!
+[07/17/2022 11:14:55 PM] You didn't input the value. Please input it!
+[07/17/2022 11:15:41 PM] You didn't input the value. Please input it!
+[07/17/2022 11:17:29 PM] Sucessfully set!
+
+Stat Name: MP0_CHAR_DATE_CREATED
+Year: 2013
+Month: 3
+Day: 6
+Hour: 1
+Min: 2
+[07/17/2022 11:18:09 PM] Sucessfully set!
+
+Stat Name: MP0_CHAR_DATE_CREATED
+Year: 2015
+Month: 3
+Day: 6
+Hour: 1
+Min: 2
+[07/17/2022 11:35:54 PM] Sucessfully set!
+
+Stat Name: MP0_CHAR_DATE_CREATED
+Year: 2015
+Month: 3
+Day: 6
+Hour: 1
+Min: 2
+[07/23/2022 04:32:51 AM] You are using latest version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0 Beta - (7)
+[07/28/2022 04:05:37 PM] Heist Control Version: V 3.0.0 Beta - (5)
+[07/28/2022 04:05:37 PM] [Heist Control - ERROR] English language file for HC doesn't exist.
+
+How to fix: Install HC via Heist Control Installer
+
+[07/28/2022 04:05:39 PM] Coded GTAO Version: 1.6
+Current GTAO Version: 1.61
+
+Excluding [NOT WORKING] features should work!
+[07/28/2022 04:05:39 PM] Good bye, thank you for using HC! :D
+[07/28/2022 11:19:03 PM] Coded GTAO Version: 1.6
+Current GTAO Version: 1.61
+
+Excluding [NOT WORKING] features should work!
+[07/28/2022 11:19:04 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0
+[07/29/2022 07:53:39 PM] Coded GTAO Version: 1.6
+Current GTAO Version: 1.61
+
+Excluding [NOT WORKING] features should work!
+[07/29/2022 07:53:40 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: V 3.0.0
+[07/29/2022 08:22:20 PM] Good bye, thank you for using HC! :D
+[08/03/2022 04:53:57 PM] Coded GTAO Version: 1.6
+Current GTAO Version: 1.61
+
+Excluding [NOT WORKING] features should work!
+[08/03/2022 04:53:58 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://guide-page.dothome.co.kr/404.html">here</a>.</p>
+<hr>
+<address>Apache Server at icedoomfist.com Port 80</address>
+</body></html>
+
+[08/03/2022 05:05:40 PM] Good bye, thank you for using HC! :D
+[08/03/2022 05:21:20 PM] Coded GTAO Version: 1.6
+Current GTAO Version: 1.61
+
+Excluding [NOT WORKING] features should work!
+[08/03/2022 05:21:20 PM] You are using outdated version of HC!
+
+Current Version: V 3.0.0 Beta - (7)
+Latest Version: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://guide-page.dothome.co.kr/404.html">here</a>.</p>
+<hr>
+<address>Apache Server at icedoomfist.com Port 80</address>
+</body></html>
+
+[08/03/2022 05:29:51 PM] Good bye, thank you for using HC! :D
+[08/08/2022 08:38:36 PM] Good bye, thank you for using HC! :D
+[08/17/2022 03:33:29 PM] Good bye, thank you for using HC! :D
+[08/17/2022 03:35:49 PM] Good bye, thank you for using HC! :D
+[08/17/2022 03:49:12 PM] Good bye, thank you for using HC! :D
+[08/17/2022 04:09:25 PM] Good bye, thank you for using HC! :D
+[08/17/2022 07:46:25 PM] Good bye, thank you for using HC! :D
+[08/17/2022 11:15:48 PM] Good bye, thank you for using HC! :D
+[08/20/2022 03:37:40 PM] Good bye, thank you for using HC! :D
+[08/20/2022 03:52:09 PM] There are no secondary targets, only one primary target exists. Your goal is get it.
+
+Leave activated until the end of the heist
+[08/20/2022 04:40:10 PM] Good bye, thank you for using HC! :D
+[08/22/2022 07:57:06 PM] Good bye, thank you for using HC! :D
+[08/23/2022 09:07:07 PM] There are no secondary targets, only one primary target exists. Your goal is get it.
+
+Leave activated until the end of the heist
+[08/24/2022 08:51:35 PM] There are no secondary targets, only one primary target exists. Your goal is get it.
+
+Leave activated until the end of the heist
+[08/24/2022 08:54:00 PM] There are no secondary targets, only one primary target exists. Your goal is get it.
+
+Leave activated until the end of the heist
+[08/26/2022 03:01:48 PM] Good bye, thank you for using HC! :D
+[08/26/2022 03:04:08 PM] There are no secondary targets, only one primary target exists. Your goal is get it.
+
+Leave activated until the end of the heist
+[08/26/2022 03:13:38 PM] Good bye, thank you for using HC! :D
+[08/30/2022 03:05:34 AM] Good bye, thank you for using HC! :D
+[08/30/2022 03:45:53 AM] Good bye, thank you for using HC! :D
+[09/02/2022 06:33:21 AM] Good bye, thank you for using HC! :D
+[09/19/2022 03:15:32 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[09/19/2022 03:38:43 PM] Good bye, thank you for using HC! :D
+[09/19/2022 03:49:07 PM] Good bye, thank you for using HC! :D
+[09/19/2022 03:52:44 PM] Good bye, thank you for using HC! :D
+[09/19/2022 08:16:23 PM] Good bye, thank you for using HC! :D
+[09/19/2022 08:31:39 PM] Good bye, thank you for using HC! :D
+[09/19/2022 08:31:46 PM] Good bye, thank you for using HC! :D
+[09/20/2022 01:54:08 AM] Good bye, thank you for using HC! :D
+[09/20/2022 02:03:47 AM] Good bye, thank you for using HC! :D
+[09/20/2022 02:05:10 AM] Good bye, thank you for using HC! :D
+[09/20/2022 02:06:09 AM] Good bye, thank you for using HC! :D
+[09/20/2022 02:22:42 AM] Good bye, thank you for using HC! :D
+[09/20/2022 09:21:27 AM] Good bye, thank you for using HC! :D
+[09/26/2022 05:13:52 PM] Good bye, thank you for using HC! :D
+[09/29/2022 06:45:38 PM] Good bye, thank you for using HC! :D
+[10/02/2022 07:56:33 PM] Good bye, thank you for using HC! :D
+[10/02/2022 08:10:37 PM] Good bye, thank you for using HC! :D
+[10/11/2022 02:54:40 PM] Good bye, thank you for using HC! :D
+[10/11/2022 03:29:31 PM] Good bye, thank you for using HC! :D
+[10/14/2022 06:32:34 PM] Good bye, thank you for using HC! :D
+[10/14/2022 06:35:01 PM] Good bye, thank you for using HC! :D
+[10/14/2022 07:15:20 PM] Good bye, thank you for using HC! :D
+[10/17/2022 04:17:32 AM] Good bye, thank you for using HC! :D
+[10/17/2022 04:34:45 AM] Good bye, thank you for using HC! :D
+[10/17/2022 04:57:29 AM] Good bye, thank you for using HC! :D
+[10/21/2022 06:21:54 AM] Good bye, thank you for using HC! :D
+[10/22/2022 12:15:59 AM] Good bye, thank you for using HC! :D
+[10/22/2022 12:30:45 AM] Good bye, thank you for using HC! :D
+[10/22/2022 01:07:44 AM] Good bye, thank you for using HC! :D
+[10/22/2022 01:14:38 AM] Good bye, thank you for using HC! :D
+[10/26/2022 09:33:17 PM] Good bye, thank you for using HC! :D
+[10/28/2022 01:39:39 AM] Good bye, thank you for using HC! :D
+[10/28/2022 08:36:36 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[10/28/2022 09:08:09 PM] Good bye, thank you for using HC! :D
+[10/28/2022 09:11:56 PM] Good bye, thank you for using HC! :D
+[10/28/2022 09:27:59 PM] Good bye, thank you for using HC! :D
+[10/30/2022 09:02:34 PM] Good bye, thank you for using HC! :D
+[10/30/2022 10:10:10 PM] Good bye, thank you for using HC! :D
+[10/31/2022 06:36:55 AM] Good bye, thank you for using HC! :D
+[11/01/2022 01:46:38 AM] Good bye, thank you for using HC! :D
+[11/01/2022 02:49:58 AM] Good bye, thank you for using HC! :D
+[11/01/2022 04:52:48 PM] Good bye, thank you for using HC! :D
+[11/01/2022 04:53:08 PM] Good bye, thank you for using HC! :D
+[11/07/2022 01:28:41 PM] Good bye, thank you for using HC! :D
+[11/07/2022 04:11:42 PM] Good bye, thank you for using HC! :D
+[11/08/2022 04:30:13 PM] Good bye, thank you for using HC! :D
+[11/09/2022 08:48:24 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[11/09/2022 09:00:22 PM] Good bye, thank you for using HC! :D
+[11/09/2022 09:17:25 PM] Good bye, thank you for using HC! :D
+[11/13/2022 05:48:43 PM] Good bye, thank you for using HC! :D
+[11/13/2022 05:49:08 PM] Good bye, thank you for using HC! :D
+[11/13/2022 05:49:25 PM] Good bye, thank you for using HC! :D
+[11/20/2022 04:26:07 PM] Good bye, thank you for using HC! :D
+[11/22/2022 04:30:39 PM] Good bye, thank you for using HC! :D
+[11/30/2022 07:15:33 PM] Good bye, thank you for using HC! :D
+[12/04/2022 08:07:44 PM] Good bye, thank you for using HC! :D
+[12/04/2022 08:07:44 PM] Good bye, thank you for using HC! :D
+[12/18/2022 02:54:18 AM] Good bye, thank you for using HC! :D
+[12/18/2022 04:25:15 AM] Good bye, thank you for using HC! :D
+[12/19/2022 11:45:54 PM] Good bye, thank you for using HC! :D
+[12/19/2022 11:46:04 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/19/2022 11:46:45 PM] Good bye, thank you for using HC! :D
+[12/19/2022 11:46:58 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/20/2022 12:02:56 AM] Good bye, thank you for using HC! :D
+[12/20/2022 01:02:48 AM] Good bye, thank you for using HC! :D
+[12/20/2022 01:26:16 AM] Good bye, thank you for using HC! :D
+[12/21/2022 10:29:25 PM] Good bye, thank you for using HC! :D
+[12/22/2022 09:36:17 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/22/2022 09:47:16 PM] Good bye, thank you for using HC! :D
+[12/23/2022 07:39:18 PM] Good bye, thank you for using HC! :D
+[12/23/2022 07:45:59 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/23/2022 07:47:58 PM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/25/2022 02:28:04 AM] Good bye, thank you for using HC! :D
+[12/25/2022 03:41:20 AM] Good bye, thank you for using HC! :D
+[12/25/2022 04:08:24 AM] Good bye, thank you for using HC! :D
+[12/25/2022 10:15:30 AM] Good bye, thank you for using HC! :D
+[12/25/2022 10:16:11 AM] There are no secondary targets, there's only the primary target. Your goal is get it.
+
+Leave activated until the end of the heist
+[12/31/2022 01:55:34 AM] Good bye, thank you for using HC! :D
+[01/03/2023 01:47:02 PM] Good bye, thank you for using HC! :D
+[01/03/2023 02:12:30 PM] Good bye, thank you for using HC! :D
+[01/13/2023 09:41:23 PM] Good bye, thank you for using HC! :D
+[01/14/2023 10:03:09 PM] Good bye, thank you for using HC! :D

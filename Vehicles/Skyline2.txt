@@ -1,0 +1,60 @@
+Model: elegy
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 61
+Wheel Colour: 158
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 3
+Sideskirt: 5
+Exhaust: 9
+Chassis: 5
+Grille: 3
+Hood: 6
+Fender: 5
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 93
+Plate Holder: 1
+Vanity Plates: 4
+Trim: 1
+Dashboard: 5
+Dial: 15
+Seats: 7
+Door Speaker: 14
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 8
+Struts: 12
+Arch Cover: 6
+Aerials: 9
+Trim2: 1
+Tank: 1
+Windows: 2
+Livery: 1
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 63
+Dashboard Colour: 134
+Tyres Mode: 1

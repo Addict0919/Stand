@@ -1,0 +1,40 @@
+Model: pariah
+Plate Style: 0
+Plate Text: 61NKI659
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 35
+Wheel Colour: 112
+Wheel Type: 10
+Spoiler: 12
+Front Bumper: 7
+Rear Bumper: 2
+Sideskirt: 2
+Hood: 4
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 90
+Livery: 1
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 65
+Tyres Mode: 1

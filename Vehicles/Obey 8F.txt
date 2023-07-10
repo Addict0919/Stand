@@ -1,0 +1,45 @@
+Model: drafter
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 140
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 6
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 3
+Exhaust: 6
+Chassis: 3
+Grille: 4
+Hood: 8
+Fender: 1
+Right Fender: 3
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 44
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: No
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 11
+Livery: 0
+Tyre Smoke Colour: #2d005a
+Window Tint: 1
+Custom Primary Colour: #280041
+Custom Secondary Colour: #280041
+Neon Colour: #2300ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 111
+Dashboard Colour: 111
+Tyres Mode: 1

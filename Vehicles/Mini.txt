@@ -1,0 +1,45 @@
+Model: issi7
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 4
+Front Bumper: 6
+Rear Bumper: 3
+Sideskirt: 6
+Exhaust: 6
+Grille: 3
+Hood: 9
+Fender: 4
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 44
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 13
+Front Wheels: 3
+Livery: 1
+Tyre Smoke Colour: #2d0046
+Window Tint: 6
+Custom Primary Colour: #2d0046
+Custom Secondary Colour: #2d0046
+Neon Colour: #2d0046
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 112
+Tyres Mode: 1
+Extra 1: No

@@ -1,0 +1,36 @@
+Model: rcbandito
+Plate Style: 4
+Plate Text: 66LZU871
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 0
+Wheel Type: 10
+Chassis: 6
+Fender: 1
+Right Fender: 2
+Engine: 4
+Brakes: 3
+Horns: 58
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 140
+Struts: 3
+Livery: 8
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #354347
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 111
+Dashboard Colour: 73
+Tyres Mode: 1

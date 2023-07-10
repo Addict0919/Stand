@@ -1,0 +1,52 @@
+Model: minivan2
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 73
+Wheel Type: 10
+Spoiler: 0
+Exhaust: 1
+Grille: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 94
+Back Wheels: 0
+Plate Holder: 6
+Vanity Plates: 0
+Trim: 4
+Ornaments: 31
+Dial: 9
+Seats: 5
+Door Speaker: 1
+Steering Wheel: 13
+Shifter Leavers: 9
+Plaques: 1
+Trunk: 9
+Hydraulics: 0
+Engine Block: 2
+Air Filter: 0
+Livery: 7
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 73
+Tyres Mode: 1

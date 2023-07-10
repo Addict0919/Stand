@@ -1,0 +1,56 @@
+Model: vectre
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 18
+Front Bumper: 9
+Rear Bumper: 9
+Sideskirt: 16
+Exhaust: 5
+Chassis: 8
+Hood: 16
+Fender: 3
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Vanity Plates: 13
+Trim: 2
+Dashboard: 3
+Seats: 8
+Door Speaker: 15
+Steering Wheel: 16
+Engine Block: 4
+Air Filter: 10
+Struts: 20
+Arch Cover: 7
+Aerials: 4
+Trim2: 14
+Right Door: 0
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 1
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

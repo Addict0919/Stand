@@ -1,0 +1,43 @@
+Model: sugoi
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 14
+Rear Bumper: 7
+Sideskirt: 9
+Exhaust: 6
+Grille: 7
+Hood: 11
+Fender: 4
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 5
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 1
+Livery: 0
+Tyre Smoke Colour: #5000ff
+Window Tint: 1
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #1400ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

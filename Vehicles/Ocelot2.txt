@@ -1,0 +1,40 @@
+Model: locust
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 140
+Wheel Type: 10
+Spoiler: 8
+Front Bumper: 7
+Sideskirt: 5
+Exhaust: 6
+Chassis: 11
+Hood: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 2
+Livery: 5
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

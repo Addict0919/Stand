@@ -1,0 +1,39 @@
+Model: kuruma2
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 12
+Pearl Colour: 13
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 5
+Front Bumper: 2
+Sideskirt: 2
+Exhaust: 3
+Chassis: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 13
+Livery: 7
+Tyre Smoke Colour: #5000ff
+Window Tint: 1
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

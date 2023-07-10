@@ -1,0 +1,39 @@
+Model: veto
+Plate Style: 0
+Plate Text: 93YSX955
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 22
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 0
+Exhaust: 11
+Chassis: 2
+Grille: 10
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 97
+Livery: 0
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 35
+Tyres Mode: 1

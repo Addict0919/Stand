@@ -1,0 +1,7 @@
+Description: A preset for Super Drive
+
+hotkeyadd superdrive e
+hotkeyremove superdrive w
+superdrive on
+superdrivecam off
+superdrivespeed 10.00

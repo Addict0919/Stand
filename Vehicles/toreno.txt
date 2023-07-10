@@ -1,0 +1,44 @@
+Model: torero2
+Plate Style: 1
+Plate Text:   GANG  
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 19
+Front Bumper: 15
+Rear Bumper: 12
+Sideskirt: 17
+Exhaust: 14
+Chassis: 9
+Grille: 10
+Hood: 14
+Fender: 3
+Roof: 14
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 13
+Livery: 1
+Tyre Smoke Colour: #6100fd
+Window Tint: 6
+Custom Primary Colour: #6100fd
+Custom Secondary Colour: #6100fd
+Neon Colour: #1900ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

@@ -1,0 +1,13 @@
+a_c_deer 0
+prop_traffic_02a 0
+xs_prop_arena_turret_post_01a_sf 0
+prop_shuttering02 0
+xs_propint2_stand_thin_02_ring 0
+prop_windmill_01_l1 1
+prop_streetlight_05_b 0
+stt_prop_stunt_wideramp 0
+v_res_tt_sofa 0
+prop_mp_boost_01 0
+prop_towercrane_01a 0
+prop_shuttering03 5
+stt_prop_ramp_jump_xs 3

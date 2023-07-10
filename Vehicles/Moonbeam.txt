@@ -1,0 +1,53 @@
+Model: moonbeam2
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 1
+Exhaust: 1
+Chassis: 0
+Grille: 2
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 46
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Back Wheels: 0
+Plate Holder: 13
+Vanity Plates: 16
+Trim: 4
+Ornaments: 45
+Dial: 14
+Seats: 3
+Door Speaker: 1
+Steering Wheel: 6
+Shifter Leavers: 15
+Plaques: 22
+Trunk: 5
+Hydraulics: 4
+Engine Block: 4
+Air Filter: 3
+Livery: 9
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

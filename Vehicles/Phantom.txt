@@ -1,0 +1,34 @@
+Model: phantom2
+Plate Style: 0
+Plate Text: 00DUA094
+Primary Colour: 120
+Secondary Colour: 0
+Pearl Colour: 18
+Wheel Colour: 145
+Wheel Type: 10
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 9
+Livery: -1
+Tyre Smoke Colour: #5a00ff
+Window Tint: 6
+Custom Primary Colour: #5a00ff
+Custom Secondary Colour: #5a00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

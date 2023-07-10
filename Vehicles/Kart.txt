@@ -1,0 +1,38 @@
+Model: veto2
+Plate Style: 5
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 21
+Wheel Colour: 22
+Wheel Type: 10
+Spoiler: 2
+Exhaust: 11
+Chassis: 2
+Grille: 9
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Unk17: Yes
+Turbo: Yes
+Unk19: Yes
+Tiresmoke: Yes
+Unk21: Yes
+Headlights: 12
+Front Wheels: 90
+Livery: 30
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #000000
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 156
+Tyres Mode: 1

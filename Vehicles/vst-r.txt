@@ -1,0 +1,44 @@
+Model: vstr
+Plate Style: 0
+Plate Text: 38DAM120
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 4
+Wheel Colour: 150
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 6
+Sideskirt: 4
+Exhaust: 17
+Chassis: 3
+Grille: 1
+Hood: 12
+Fender: 0
+Right Fender: 0
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 3
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 1
+Livery: 1
+Tyre Smoke Colour: #ff0000
+Window Tint: 1
+Custom Primary Colour: #ff0000
+Custom Secondary Colour: #ff0000
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 4
+Dashboard Colour: 0
+Tyres Mode: 1

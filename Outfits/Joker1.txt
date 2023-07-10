@@ -1,0 +1,35 @@
+Model: Online Male
+Head: 0
+Head Variation: 0
+Mask: 0
+Mask Variation: 0
+Hair: 66
+Hair Colour: 40
+Top: 35
+Top Variation: 5
+Gloves / Torso: 1
+Gloves / Torso Variation: 0
+Top 2: 27
+Top 2 Variation: 3
+Top 3: 0
+Top 3 Variation: 0
+Parachute / Bag: 0
+Parachute / Bag Variation: 0
+Pants: 28
+Pants Variation: 2
+Shoes: 40
+Shoes Variation: 6
+Accessories: 22
+Accessories Variation: 5
+Decals: 0
+Decals Variation: 0
+Hat: -1
+Hat Variation: -1
+Glasses: -1
+Glasses Variation: -1
+Earwear: -1
+Earwear Variation: -1
+Watch: -1
+Watch Variation: -1
+Bracelet: -1
+Bracelet Variation: -1

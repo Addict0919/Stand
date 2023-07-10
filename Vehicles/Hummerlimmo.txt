@@ -1,0 +1,39 @@
+Model: patriot2
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 67
+Wheel Colour: 0
+Wheel Type: 10
+Front Bumper: 1
+Rear Bumper: 1
+Exhaust: 0
+Hood: 4
+Right Fender: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 3
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 89
+Livery: 27
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 0
+Tyres Mode: 1

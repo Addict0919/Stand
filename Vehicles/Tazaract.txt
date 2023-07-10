@@ -1,0 +1,36 @@
+Model: tezeract
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 5
+Front Bumper: 9
+Rear Bumper: 4
+Chassis: 3
+Engine: 4
+Brakes: 3
+Horns: 43
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 0
+Livery: 0
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

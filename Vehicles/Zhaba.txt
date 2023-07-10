@@ -1,0 +1,46 @@
+Model: zhaba
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 8
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 1
+Front Bumper: 0
+Rear Bumper: 0
+Sideskirt: 8
+Exhaust: 7
+Chassis: 0
+Grille: 0
+Fender: 0
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 2
+Horns: 44
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 9
+Livery: 0
+Tyre Smoke Colour: #2d005a
+Window Tint: 6
+Custom Primary Colour: #2d005a
+Custom Secondary Colour: #2d005a
+Neon Colour: #2d005a
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 155
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: No
+Extra 2: Yes
+Extra 3: Yes

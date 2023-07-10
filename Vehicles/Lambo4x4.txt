@@ -1,0 +1,43 @@
+Model: toros
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 73
+Wheel Colour: 0
+Wheel Type: 10
+Spoiler: 4
+Front Bumper: 3
+Rear Bumper: 3
+Sideskirt: 2
+Exhaust: 12
+Grille: 13
+Hood: 11
+Fender: 1
+Roof: 7
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 45
+Suspension: 5
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 94
+Livery: 3
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,42 @@
+Model: autarch
+Plate Style: 0
+Plate Text: 65XZK148
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 88
+Wheel Colour: 12
+Wheel Type: 10
+Spoiler: 16
+Front Bumper: 11
+Rear Bumper: 2
+Sideskirt: 1
+Exhaust: 7
+Hood: 7
+Fender: 1
+Right Fender: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 12
+Front Wheels: 91
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #280041
+Custom Secondary Colour: #280041
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

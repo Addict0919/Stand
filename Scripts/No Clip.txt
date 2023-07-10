@@ -1,0 +1,13 @@
+Description: A preset for Levitation
+
+levitate on
+levitatespeed 2.00
+levitatesprintmultiplier 0.50
+levitateignorepitch off
+levitatepassivemin 0
+levitatepassivemax 0
+levitatepassivespeed 0
+levitateassistup 0
+levitateassistdown 0
+levitateassistdeadzone 0
+levitateassistsnap 0

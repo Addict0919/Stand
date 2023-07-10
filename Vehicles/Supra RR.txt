@@ -1,0 +1,59 @@
+Model: jester4
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 0
+Wheel Colour: 150
+Wheel Type: 10
+Spoiler: 14
+Front Bumper: 12
+Rear Bumper: 11
+Sideskirt: 8
+Exhaust: 10
+Chassis: 9
+Grille: 8
+Hood: 12
+Fender: 2
+Right Fender: 2
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 9
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 10
+Front Wheels: 3
+Vanity Plates: 3
+Trim: 3
+Ornaments: 2
+Dashboard: 0
+Dial: 4
+Seats: 0
+Door Speaker: 8
+Steering Wheel: 15
+Engine Block: 5
+Air Filter: 9
+Struts: 17
+Arch Cover: 2
+Trim2: 1
+Tank: 7
+Livery: 5
+Tyre Smoke Colour: #ff0000
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: #080808
+Neon Colour: #ff0000
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 27
+Dashboard Colour: 156
+Tyres Mode: 1

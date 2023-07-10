@@ -1,0 +1,70 @@
+Tree Compatibility Version: 47
+Self
+	Movement
+		Levitation
+			Levitation: +
+Vehicle
+	Last Vehicle
+		Enter: F7
+		Remote Control: F6
+		Follow Me: F8
+Online
+	New Session
+		Find New Public Session: Page Down
+	Transitions
+		Unstuck: F2
+	Session
+		Session Code
+			Join Session Via Code: 223
+		Restart Freemode Script: 4
+		Rejoin Session: 145
+		Be Alone: F1
+World
+	Places
+		Teleport To...
+			Waypoint: F9
+			Objective: F10
+	Atmosphere
+		Disable Skybox: Delete
+Game
+	Camera
+		Anti-Crash Camera: '
+	Rendering
+		Render HD Only: Delete
+		Potato Mode: Delete
+		Mostly Disable Rendering: Delete
+	Remove Notifications Above Minimap: End
+Stand
+	Settings
+		Input
+			Keyboard Input Scheme
+				Open/Close Menu: Numpad +
+				Previous Tab: Numpad 7
+				Next Tab: Numpad 1
+				Up: Numpad 8
+				Down: Numpad 2
+				Left: Numpad 4
+				Right: Numpad 6
+				Click: Numpad 5
+				Back: Numpad 0
+				Context Menu: Numpad 3
+	Profiles
+		Best
+			Save: 9
+			Load: 8
+	Lua Scripts
+		Addict
+			Protections
+				Cleansers
+					No Entity Spawn Toggled: Delete
+					Clear Shit Up: 7
+				Toggle Panic Mode: Delete
+				Block PFTX/Particulate Lag: Delete
+			Restart Script: 48
+		EntityThrottler
+			Auto Throttler
+				Enable: Delete
+				Cleanup: Delete
+		Throttler
+			Enable Throttler: Delete
+	Clear Notifications: End

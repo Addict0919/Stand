@@ -1,0 +1,39 @@
+Model: deveste
+Plate Style: 0
+Plate Text: 56GTL190
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 4
+Wheel Colour: 1
+Wheel Type: 10
+Spoiler: 9
+Front Bumper: 4
+Rear Bumper: 5
+Exhaust: 8
+Chassis: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 44
+Suspension: 1
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 91
+Livery: 5
+Tyre Smoke Colour: #ff00ff
+Window Tint: 6
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

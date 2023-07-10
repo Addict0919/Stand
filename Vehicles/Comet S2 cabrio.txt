@@ -1,0 +1,54 @@
+Model: comet7
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 27
+Front Bumper: 18
+Rear Bumper: 20
+Sideskirt: 0
+Exhaust: 3
+Grille: 2
+Hood: 17
+Fender: 5
+Right Fender: 6
+Roof: 8
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Vanity Plates: 17
+Trim: 1
+Dashboard: 4
+Seats: 4
+Door Speaker: 14
+Steering Wheel: 7
+Arch Cover: 1
+Aerials: 4
+Trim2: 7
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1
+

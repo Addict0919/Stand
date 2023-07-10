@@ -1,0 +1,37 @@
+Model: ztype
+Plate Style: 2
+Plate Text: DAMASCUS
+Primary Colour: 12
+Secondary Colour: 12
+Pearl Colour: 140
+Wheel Colour: 0
+Wheel Type: 8
+Front Bumper: 1
+Sideskirt: 1
+Grille: 2
+Hood: 1
+Engine: 2
+Brakes: 0
+Transmission: 0
+Horns: 44
+Armor: 0
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 10
+Front Wheels: 108
+Livery: -1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: #080808
+Custom Secondary Colour: #080808
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

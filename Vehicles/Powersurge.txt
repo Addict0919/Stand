@@ -1,0 +1,39 @@
+Model: powersurge
+Plate Style: 0
+Plate Text: xCandyx
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 81
+Wheel Type: 10
+Front Bumper: 2
+Rear Bumper: 0
+Exhaust: 1
+Chassis: 2
+Hood: 1
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 43
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: No
+Unk21: No
+Headlights: 13
+Front Wheels: 16
+Livery: 0
+Tyre Smoke Colour: #ffffff
+Window Tint: 6
+Custom Primary Colour: #4b00ff
+Custom Secondary Colour: #4b00ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 0
+Dashboard Colour: 0
+Tyres Mode: 1

@@ -1,0 +1,57 @@
+Model: youga3
+Plate Style: 0
+Plate Text: 08ZPN639
+Primary Colour: 92
+Secondary Colour: 158
+Pearl Colour: 0
+Wheel Colour: 156
+Wheel Type: 9
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 6
+Sideskirt: 5
+Exhaust: 3
+Chassis: 1
+Grille: 7
+Hood: 9
+Right Fender: 4
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 18
+Trim: 12
+Dashboard: 3
+Seats: 1
+Door Speaker: 1
+Steering Wheel: 13
+Trunk: 8
+Engine Block: 6
+Arch Cover: 5
+Aerials: 1
+Trim2: 3
+Tank: 6
+Windows: 0
+Unk47: 0
+Livery: 14
+Tyre Smoke Colour: #ffffff
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 145
+Dashboard Colour: 4
+Tyres Mode: 2

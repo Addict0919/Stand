@@ -1,0 +1,44 @@
+Model: coquette4
+Plate Style: 0
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 10
+Wheel Colour: 81
+Wheel Type: 10
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 4
+Sideskirt: 2
+Exhaust: 6
+Chassis: 1
+Grille: 3
+Hood: 6
+Roof: 1
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 3
+Front Wheels: 15
+Livery: 4
+Tyre Smoke Colour: #2d00ff
+Window Tint: 6
+Custom Primary Colour: #2d00ff
+Custom Secondary Colour: #2d00ff
+Neon Colour: #0000ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 73
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No

@@ -1,0 +1,495 @@
+util.keep_running()
+util.require_natives("1663599433")
+
+function GET_ACTIVE_PROFILE()
+    local Texts = {}
+    local Dir = filesystem.stand_dir() .. "Meta State.txt"
+    local open = io.open(Dir, "r")
+    for i in open:lines() do
+        table.insert(Texts, i)
+    end
+    open:close()
+
+    for _, text in pairs(Texts) do
+        local __, i = string.find(text, "Active Profile: ")
+        if i ~= nil then
+            return string.sub(text, i + 1, string.len(text))
+        end
+    end
+end
+function GET_STAND_STATE(type)
+    local Texts = {}
+    local Dir = filesystem.stand_dir() .. "Profiles\\" .. GET_ACTIVE_PROFILE() .. ".txt"
+    local open = io.open(Dir, "r")
+    for i in open:lines() do
+        table.insert(Texts, i)
+    end
+    open:close()
+
+    for _, text in pairs(Texts) do
+        local String = type .. ": "
+        local __, i = string.find(text, String)
+        if i ~= nil then
+            return string.sub(text, i + 1, string.len(text))
+        end
+    end
+
+    return "FF1493FF" -- https://www.rapidtables.com/web/color/pink-color.html, Hot Pink
+end
+
+function HEX_TO_RGBA(type, hex) -- https://gist.github.com/jasonbradley/4357406
+    local Color = {}
+    if type == "Game" then
+        Color.r = tonumber("0x" .. string.sub(hex, 1, 2))
+        Color.g = tonumber("0x" .. string.sub(hex, 3, 4))
+        Color.b = tonumber("0x" .. string.sub(hex, 5, 6))
+        Color.a = tonumber("0x" .. string.sub(hex, 7, 8))
+    elseif type == "Stand" then
+        Color.r = tonumber("0x" .. string.sub(hex, 1, 2)) / 255
+        Color.g = tonumber("0x" .. string.sub(hex, 3, 4)) / 255
+        Color.b = tonumber("0x" .. string.sub(hex, 5, 6)) / 255
+        Color.a = tonumber("0x" .. string.sub(hex, 7, 8)) / 255
+    end
+    return Color
+end
+
+local color = HEX_TO_RGBA("Stand", GET_STAND_STATE("AR Colour"))
+local esp_list = menu.my_root()
+
+local memory_pos, memory_pos2 = memory.alloc(24), memory.alloc(24)
+function draw_bounding_box(entity_ptr, max_distance, colour)
+    if entity_ptr ~= 0 then
+        if is_handle(entity_ptr) then
+            entity = entities.handle_to_pointer(entity_ptr)
+        else
+            entity = entity_ptr
+        end
+        local my_pos = players.get_position(players.user())
+        local ent_pos = entities.get_position(entity)
+        local max_distance = max_distance or 150
+        if v3.distance(my_pos, ent_pos) < max_distance then
+            local colour = colour or {r = 255, g = 0, b = 255, a = 255}
+            local entity = entities.pointer_to_handle(entity)
+            local hash = ENTITY.GET_ENTITY_MODEL(entity)
+
+            MISC.GET_MODEL_DIMENSIONS(hash, memory_pos, memory_pos2)
+            local dimensions_min = memory.read_vector3(memory_pos)
+            local dimensions_max = memory.read_vector3(memory_pos2)
+
+            local top_front_right = ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_max.x, dimensions_max.y, dimensions_max.z)
+            local top_front_left =  ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_min.x, dimensions_max.y, dimensions_max.z)
+            local top_rear_left =   ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_min.x, dimensions_min.y, dimensions_max.z)
+            local top_rear_right =  ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_max.x, dimensions_min.y, dimensions_max.z)
+
+            local bot_front_right = ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_max.x, dimensions_max.y, dimensions_min.z)
+            local bot_front_left =  ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_min.x, dimensions_max.y, dimensions_min.z)
+            local bot_rear_left =   ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_min.x, dimensions_min.y, dimensions_min.z)
+            local bot_rear_right =  ENTITY.GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(entity, dimensions_max.x, dimensions_min.y, dimensions_min.z)
+
+            draw_line(top_front_right,   top_front_left,     colour)
+            draw_line(top_front_left,    top_rear_left,      colour)
+            draw_line(top_rear_left,     top_rear_right,     colour)
+            draw_line(top_rear_right,    top_front_right,    colour)
+
+            draw_line(top_front_right,   bot_front_right,    colour)
+            draw_line(top_front_left,    bot_front_left,     colour)
+            draw_line(top_rear_right,    bot_rear_right,     colour)
+            draw_line(top_rear_left,     bot_rear_left,      colour)
+
+            draw_line(bot_front_right,   bot_front_left,     colour)
+            draw_line(bot_front_left,    bot_rear_left,      colour)
+            draw_line(bot_rear_left,     bot_rear_right,     colour)
+            draw_line(bot_rear_right,    bot_front_right,    colour)
+            if not ENTITY.IS_ENTITY_A_MISSION_ENTITY(entity) or ENTITY.GET_ENTITY_SCRIPT(entity, 0) == "" then
+                SHAPETEST.RELEASE_SCRIPT_GUID_FROM_ENTITY(entity)
+            end
+        end
+    end
+end
+function get_entity_player_is_aiming_at(player)
+    local entity = 0
+    if PLAYER.IS_PLAYER_FREE_AIMING(player) then
+        local pEntity = memory.alloc_int()
+        if PLAYER.GET_ENTITY_PLAYER_IS_FREE_AIMING_AT(player, pEntity) then
+            entity = memory.read_int(pEntity)
+        end
+        if ENTITY.IS_ENTITY_A_PED(entity) and PED.IS_PED_IN_ANY_VEHICLE(entity) then
+            local vehicle = PED.GET_VEHICLE_PED_IS_IN(entity, false)
+            entity = vehicle
+        end
+    end
+    return entity
+end
+
+-- Hash ESP
+menu.divider(esp_list, "Hash ESP")
+menu.toggle_loop(esp_list, "Vehicle", {"vehesp"}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hash: "..tostring(modelname), 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {"pedesp"}, "", function (toggle)
+    local entTable = entities.get_all_peds_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hash: "..tostring(modelname), 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {"objesp"}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hash: "..tostring(modelname), 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {"pickupesp"}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hash: "..tostring(modelname), 1, 0.5, color, false)
+        end
+    end
+end)
+
+-- Hex ESP
+menu.divider(esp_list, "Hex ESP")
+menu.toggle_loop(esp_list, "Vehicle", {""}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = string.format("0x%08X", modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hex: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {""}, "", function (toggle)
+    local entTable = entities.get_all_peds_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = string.format("0x%08X", modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hex: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {""}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = string.format("0x%08X", modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hex: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {""}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = string.format("0x%08X", modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Hex: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+
+-- Owner ESP
+menu.divider(esp_list, "Owner ESP")
+menu.toggle_loop(esp_list, "Vehicle", {""}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local owner_id = entities.get_owner(ent_ptr)
+        local owner_name = players.get_name(owner_id)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Owner: "..owner_name, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {""}, "", function (toggle)
+    local entTable = entities.get_all_peds_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local owner_id = entities.get_owner(ent_ptr)
+        local owner_name = players.get_name(owner_id)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Owner: "..owner_name, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {""}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local owner_id = entities.get_owner(ent_ptr)
+        local owner_name = players.get_name(owner_id)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Owner: "..owner_name, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {""}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local owner_id = entities.get_owner(ent_ptr)
+        local owner_name = players.get_name(owner_id)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Owner: "..owner_name, 1, 0.5, color, false)
+        end
+    end
+end)
+
+-- Name ESP
+menu.divider(esp_list, "Name ESP")
+menu.toggle_loop(esp_list, "Vehicle", {""}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = util.reverse_joaat(modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Model Name: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {""}, "", function (toggle)
+    local entTable = entities.get_all_peds_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = util.reverse_joaat(modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Model Name: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {""}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = util.reverse_joaat(modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Model Name: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {""}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+        local entPos = entities.get_position(ent_ptr)
+        local pedPos = ENTITY.GET_ENTITY_COORDS(PLAYER.GET_PLAYER_PED(players.user()))
+        local modelname = entities.get_model_hash(ent_ptr)
+        local modelname2 = util.reverse_joaat(modelname)
+        local sx = memory.alloc()
+        local sy = memory.alloc()
+        if GRAPHICS.GET_SCREEN_COORD_FROM_WORLD_COORD(entPos.x, entPos.y, entPos.z, sx, sy) then
+            local ssx = memory.read_float(sx)
+            local ssy = memory.read_float(sy)
+            directx.draw_text(ssx, ssy - 0.1, "Model Name: "..modelname2, 1, 0.5, color, false)
+        end
+    end
+end)
+
+-- Blip ESP
+menu.divider(esp_list, "Blip ESP")
+local vehicle_blip_table = {}
+local pedestrian_blip_table = {}
+local object_blip_table = {}
+local pickup_blip_table = {}
+menu.toggle_loop(esp_list, "Vehicle", {""}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_handles()
+    for _, ent in pairs(entTable) do
+		local blip = HUD.ADD_BLIP_FOR_ENTITY(ent)
+		HUD.SET_BLIP_SPRITE(blip, 56)
+		table.insert(vehicle_blip_table, blip)
+    end
+	util.yield(500)
+    for _, blip in pairs(vehicle_blip_table) do
+        util.remove_blip(blip)
+		vehicle_blip_table[_] = nil
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {""}, "", function (toggle)
+    local entTable = entities.get_all_peds_as_handles()
+    for _, ent in pairs(entTable) do
+		local blip = HUD.ADD_BLIP_FOR_ENTITY(ent)
+		HUD.SET_BLIP_SPRITE(blip, 366)
+		table.insert(pedestrian_blip_table, blip)
+    end
+	util.yield(500)
+    for _, blip in pairs(pedestrian_blip_table) do
+        util.remove_blip(blip)
+		pedestrian_blip_table[_] = nil
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {""}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_handles()
+	util.yield()
+    for _, ent in pairs(entTable) do
+		local blip = HUD.ADD_BLIP_FOR_ENTITY(ent)
+		HUD.SET_BLIP_SPRITE(blip, 176)
+		table.insert(object_blip_table, blip)
+    end
+	util.yield(500)
+    for _, blip in pairs(object_blip_table) do
+        util.remove_blip(blip)
+		object_blip_table[_] = nil
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {""}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_handles()
+	util.yield()
+    for _, ent in pairs(entTable) do
+		local blip = HUD.ADD_BLIP_FOR_ENTITY(ent)
+		HUD.SET_BLIP_SPRITE(blip, 351)
+		table.insert(pickup_blip_table, blip)
+    end
+	util.yield(500)
+    for _, blip in pairs(pickup_blip_table) do
+        util.remove_blip(blip)
+		pickup_blip_table[_] = nil
+    end
+end)
+
+-- Bounding ESP
+menu.divider(esp_list, "Bounding ESP")
+local distance = 150
+menu.slider(esp_list, "Bounding Distance", {"bounddist"}, "", 1, 5000, 150, 1, function (value)
+    distance = value
+end)
+menu.toggle_loop(esp_list, "Vehicle", {""}, "", function (toggle)
+    local entTable = entities.get_all_vehicles_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+		draw_bounding_box(ent_ptr, distance)
+		remove_handle(ent_ptr)
+    end
+end)
+menu.toggle_loop(esp_list, "Pedestrian", {""}, "Doesn't include pedestrians inside vehicles", function (toggle)
+    local entTable = entities.get_all_peds_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+		if not PED.IS_PED_IN_ANY_VEHICLE(ent_ptr, distance) then
+			draw_bounding_box(ent_ptr)
+		end
+    end
+end)
+menu.toggle_loop(esp_list, "Object", {""}, "", function (toggle)
+    local entTable = entities.get_all_objects_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+		draw_bounding_box(ent_ptr, distance) 
+    end
+end)
+menu.toggle_loop(esp_list, "Pickup", {""}, "", function (toggle)
+    local entTable = entities.get_all_pickups_as_pointers()
+    for _, ent_ptr in pairs(entTable) do
+		draw_bounding_box(ent_ptr, distance)
+    end
+end)
+
+-- Details GUN
+menu.divider(esp_list, "Clipboard Gun")
+menu.toggle_loop(esp_list, "Hash Gun", {}, "", function()
+	if PED.IS_PED_SHOOTING(players.user_ped()) then
+		local entity = get_entity_player_is_aiming_at(players.user())
+		if entity ~= 0 then
+			local entitypointer = entities.handle_to_pointer(entity)
+			local model_hash = entities.get_model_hash(entitypointer)
+			util.copy_to_clipboard(model_hash, true)
+            util.toast(model_hash)
+		end
+	end
+end)

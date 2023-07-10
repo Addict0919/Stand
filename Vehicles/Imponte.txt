@@ -1,0 +1,48 @@
+Model: ruiner4
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 142
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 19
+Rear Bumper: 9
+Sideskirt: 14
+Exhaust: 11
+Chassis: 3
+Grille: 1
+Hood: 19
+Fender: 2
+Right Fender: 0
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 2
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 1
+Livery: 3
+Tyre Smoke Colour: #7800ff
+Window Tint: 6
+Custom Primary Colour: #7800ff
+Custom Secondary Colour: #7800ff
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes
+Extra 2: No
+Extra 3: No

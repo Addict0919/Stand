@@ -1,0 +1,52 @@
+Model: weevil2
+Plate Style: 1
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 111
+Wheel Colour: 148
+Wheel Type: 10
+Spoiler: 8
+Front Bumper: 13
+Rear Bumper: 7
+Sideskirt: 6
+Exhaust: 14
+Chassis: 4
+Grille: 11
+Hood: 8
+Fender: 8
+Roof: 16
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 57
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 13
+Front Wheels: 3
+Trim: 10
+Door Speaker: 8
+Steering Wheel: 18
+Shifter Leavers: 15
+Arch Cover: 10
+Aerials: 10
+Left Door: 8
+Right Door: 6
+Livery: 1
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #2d00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 93
+Dashboard Colour: 134
+Tyres Mode: 1

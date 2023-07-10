@@ -1,0 +1,59 @@
+Model: cypher
+Plate Style: 3
+Plate Text: XCANDYX 
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 0
+Wheel Colour: 136
+Wheel Type: 10
+Spoiler: 0
+Front Bumper: 11
+Rear Bumper: 5
+Sideskirt: 0
+Exhaust: 8
+Chassis: 0
+Grille: 12
+Hood: 10
+Fender: 2
+Right Fender: 5
+Roof: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 0
+Armor: 5
+Unk17: No
+Turbo: Yes
+Unk19: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 12
+Vanity Plates: 0
+Trim: 0
+Ornaments: 0
+Dashboard: 0
+Dial: 0
+Seats: 0
+Door Speaker: 0
+Steering Wheel: 16
+Engine Block: 9
+Struts: 17
+Arch Cover: 9
+Aerials: 0
+Trim2: 7
+Tank: 3
+Livery: 1
+Tyre Smoke Colour: #ff00ff
+Window Tint: 1
+Custom Primary Colour: #ff00ff
+Custom Secondary Colour: #ff00ff
+Neon Colour: #ff00ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 146
+Dashboard Colour: 0
+Tyres Mode: 1

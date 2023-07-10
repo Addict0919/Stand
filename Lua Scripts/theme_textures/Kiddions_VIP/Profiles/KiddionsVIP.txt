@@ -1,0 +1,117 @@
+Finished Tutorial: Yes
+Prompted For Controller Disables: Yes
+Understands Command Chaining: Yes
+Tree Compatibility Version: 35
+Self
+	Weapons
+		Aimbot
+			Players: Off
+			Pedestrians: Off
+		Infinite Ammo: On
+		Skip Reloading: On
+		Damage Multiplier: 0.80
+		Range Multiplier: 1.20
+	Glued To Seats: On
+	Lock Wanted Level: On
+Vehicle
+	Spawner
+		Tune Spawned Vehicles: Fully
+	AR Speedometer
+		Colour: FFFFFFFF
+	Headlights Intensity: 2.00
+Online
+	Transitions
+		Show Transition State: On
+	Enhancements
+		Disable Idle/AFK Kick: On
+		Notify On Commendation: On
+	Protections
+		Events
+			CEO/MC Ban
+				Block: Enabled
+			CEO/MC Kick
+				Block: Enabled
+			Start Freemode Mission
+				Block: Enabled
+			Send To Clubhouse
+				Block: Enabled
+			Teleport To Warehouse
+				Block: Enabled
+			Cayo Perico Invite
+				Block: Enabled
+			Apartment Invite
+				Block: Enabled
+			Vehicle Takeover
+				Block: Enabled
+			Kick From Vehicle
+				Block: Enabled
+			Freeze
+				Block: Enabled
+			Love Letter Kick Blocking Event
+				Block: Enabled
+		Host Kicks
+			Host Kick Karma: On
+		Love Letter & Desync Kicks
+			Notification When Love Letter Kicked: On
+	Spoofing
+		Name Spoofing
+			Spoofed Name: Nulrok
+		Host Token Spoofing
+			Spoofed Host Token: 
+	Reactions
+		Player Join Reactions
+			Notification: Enabled
+		Host Change Reactions
+			Notification: Enabled
+		Script Host Change Reactions
+			Notification: Enabled
+		Vote Kick Reactions
+			Voting To Kick Anyone
+				Notification: Enabled
+	Reveal Off The Radar Players: On
+World
+	Places
+		Teleport To...
+			Auto Teleport To Waypoints: On
+	Watch_Dogs-Like World Hacking
+		Watch_Dogs-Like World Hacking: On
+Game
+	Info Overlay
+		Players: On
+		Player Tags
+			Modders: On
+Stand
+	Settings
+		Appearance
+			Colours
+				Primary Colour: EFD469C8
+				Focused Text Colour: 093145C8
+				Focused Right-Bound Text Colour: 093145C8
+				Focused Texture Colour: 093145C8
+				Background Colour: 093145C8
+				Unfocused Text Colour: F2F3F4FF
+				Unfocused Right-Bound Text Colour: F2F3F4FF
+				Unfocused Texture Colour: F2F3F4FF
+				HUD Colour: EFD469C8
+				AR Colour: EFD469C8
+				Minigame Colour: EFD469C8
+			Header
+				Header: Custom
+				Legacy Positioning: Off
+			Address Bar
+				Root Name: Kiddion's VIP Menu {}
+				Address Separator: Stand / Online
+				Show Cursor Position: On
+			Cursor
+				Colour: EFD469FF
+			Scrollbar
+				Scrollbar: Disabled
+				Width: 10
+			Notifications
+				Border Colour: 093145FF
+				Flash Colour: EFD469FF
+				Background Colour: 093145FF
+			Border
+				Colour: EFD469FF
+		Language: English (US)
+		Discord Rich Presence: On

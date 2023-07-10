@@ -1,0 +1,45 @@
+Model: yosemite2
+Plate Style: 0
+Plate Text: 52FFE754
+Primary Colour: 120
+Secondary Colour: 120
+Pearl Colour: 161
+Wheel Colour: 145
+Wheel Type: 10
+Spoiler: 9
+Front Bumper: 11
+Rear Bumper: 1
+Sideskirt: 11
+Exhaust: 1
+Chassis: 3
+Grille: 4
+Hood: 5
+Fender: 1
+Roof: 4
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 45
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 14
+Front Wheels: 11
+Livery: 9
+Tyre Smoke Colour: #5000ff
+Window Tint: 6
+Custom Primary Colour: #5000ff
+Custom Secondary Colour: #5000ff
+Neon Colour: #ff00ff
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 13
+Dashboard Colour: 111
+Tyres Mode: 1
+Extra 1: No
