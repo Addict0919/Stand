@@ -1,0 +1,3 @@
+
+Personal Hooker has an option for creating a new location, it will do most of these steps for you but you need to know how to correctly position your player so that it looks like they are sitting on a couch, to  do this, you need to use a noclip mode (i recommend the one that comes with Enhanced Native Trainer,
+you need to get the heading that they want to be facing, and position the player so their they are standing on the couch (see image in the folder), then once you have aligned your player correctly, you can hit add location, then all you have to do is reload mods for the new location to become available when choosing location, the program should be able to correctly calucalte both the player and stripper position from the coords given when hitting add location

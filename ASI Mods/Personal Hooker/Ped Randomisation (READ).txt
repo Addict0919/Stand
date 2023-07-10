@@ -1,0 +1,10 @@
+as of 3.1 you can randomise the Strippers Clothes here are the options from the menu before you hit Request Stripper at location,
+Randomisation 1 = Randomize Face, Hair, Top, Legs, Accessory Catagories
+Randomisation 2 = Randomize Face, Hair, Top, Accessory Catagories
+Randomisation 3 = Randomize Hair, Top, Accessory Catagories
+Randomisation 4 = Randomize Top Catagorie
+Randomisation 5 = Randomize Hair, Top, Legs Catagories
+Randomisation 6 = Randomize Top, Legs Catagories
+Randomisation 7 = Randomize Face, Hair Catagories
+Randomisation 8 = Randomize Face, Hair, Accessory Catagories
+Randomisation 9 = Randomize Hair, Top  Catagories

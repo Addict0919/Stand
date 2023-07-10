@@ -1,0 +1,21 @@
+[19:59:22.596] [ INFO  ] Dynamic Vehicle FPV v1.0.0 (built Jan 17 2023 14:22:40)
+[19:59:22.596] [ INFO  ] Data path: C:\Users\mille\AppData\Roaming\Stand\ASI Mods\DynamicVehicleFirstPerson
+[19:59:22.596] [ INFO  ] Script registered
+[19:59:22.602] [ INFO  ] Script started
+[19:59:22.603] [ INFO  ] Settings loaded
+[19:59:22.603] [ INFO  ] Game version: 82
+[19:59:22.688] [ DEBUG ] [VExt] Hover Transform Active offset: 0x338
+[19:59:22.718] [ DEBUG ] [VExt] RPM offset: 0x8B0
+[19:59:22.745] [ DEBUG ] [VExt] Wheels Container offset: 0xBD0
+[19:59:22.745] [ DEBUG ] [VExt] Wheel Count offset: 0xBD8
+[19:59:22.778] [ DEBUG ] [VExt] Wheel Suspension Compression Offset: 0x%X
+[19:59:22.812] [ DEBUG ] Wheel Material Type offset: 0x20A
+[19:59:22.812] [ INFO  ] [Compat] Setting up DismembermentASI
+[19:59:22.813] [ INFO  ] [Compat] DismembermentASI.asi not found
+[19:59:22.813] [ INFO  ] [Compat] Setting up Manual Transmission
+[19:59:22.813] [ INFO  ] [Compat] Gears.asi not found
+[19:59:22.814] [ DEBUG ] Reloading configs
+[19:59:22.815] [ DEBUG ] Skipping [.keep] - not .ini
+[19:59:22.815] [ DEBUG ] [Config] Reading Default
+[19:59:22.815] [ DEBUG ] [Config] Loaded Default
+[19:59:22.815] [ INFO  ] Configs loaded: 1

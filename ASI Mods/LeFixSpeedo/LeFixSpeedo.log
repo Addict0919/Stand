@@ -1,0 +1,11 @@
+[11:50:44.430] LeFixSpeedo v1.3.8
+[11:50:44.431] Game version 70
+[11:50:44.439] Handling Offset: 0x938
+[11:50:44.457] RPM Offset: 0x8D0
+[11:50:44.478] Fuel Level Offset: 0x854
+[11:50:44.507] Current Gear Offset: 0x892
+[11:50:44.507] Top Gear Offset: 0x896
+[11:50:44.525] Throttle Offset: 0x8E0
+[11:50:44.538] Handbrake Offset: 0x9C4
+[11:50:44.619] Setting up Manual Transmission compatibility
+[11:50:44.619] Gears.asi not found

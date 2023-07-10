@@ -1,0 +1,17 @@
+[11:50:37.148] [ INFO] GTAVSpeedo v0.0.7
+[11:50:37.149] [ INFO] Game version 70
+[11:50:37.149] [ INFO] Script registered
+[11:50:37.168] [ INFO] Script started
+[11:50:38.728] [ INFO] Setting up globals
+[11:50:38.741] [ INFO] Setting up Manual Transmission compatibility
+[11:50:38.741] [ERROR] Gears.asi not found
+[11:50:38.742] [ WARN] Manual Transmission integration failed
+[11:50:38.742] [ INFO] Setting up TurboFix compatibility
+[11:50:38.742] [ERROR] TurboFix.asi not found
+[11:50:38.742] [ WARN] TurboFix integration failed
+[11:50:38.743] [ INFO] Found skin: default
+[11:50:38.743] [ INFO] Found skin: default-drag
+[11:50:38.743] [ INFO] Loading C:\Users\Msi\AppData\Roaming\Stand\ASI Mods\iktSpeedo\default
+[11:50:38.744] [ INFO] Finished loading default
+[11:50:38.751] [ INFO] Finished loading resources for \default
+[11:50:41.474] [ INFO] Init shutdown

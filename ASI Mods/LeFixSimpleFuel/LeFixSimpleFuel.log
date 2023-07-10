@@ -1,0 +1,10 @@
+[12:39:22.024] LeFixSimpleFuel v1.1.7
+[12:39:22.024] Game version VER_1_0_350_1_STEAM
+[12:39:22.029] Handling Offset: 0x938
+[12:39:22.051] RPM Offset: 0x8D0
+[12:39:22.051] Throttle Offset: 0x8E0
+[12:39:22.070] Fuel Level Offset: 0x854
+[12:39:22.093] Current Gear Offset: 0x892
+[12:39:22.094] Top Gear Offset: 0x896
+[12:39:22.151] Handbrake Offset: 0x0
+[12:39:22.180] VehicleFlags Offset: 0x57C

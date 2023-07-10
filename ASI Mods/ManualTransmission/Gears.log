@@ -1,0 +1,276 @@
+[17:38:48.298] [ INFO  ] Manual Transmission v5.4.1 (built Aug  6 2021 21:58:41) (d88bef1)
+[17:38:48.299] [ INFO  ] 2021 10 22, 17:38:48
+[17:38:48.299] [ INFO  ] SHV API Game version: VER_1_0_2372_0_NOSTEAM (70)
+[17:38:48.299] [ INFO  ] Running executable: C:\Program Files\Rockstar Games\Grand Theft Auto V\GTA5.exe
+[17:38:48.300] [ INFO  ] File Version: 1.0.2372.2
+[17:38:48.300] [ INFO  ] Using offsets based on SHV API version [VER_1_0_2372_0_NOSTEAM] (70)
+[17:38:48.300] [ INFO  ] Script registered
+[17:38:48.302] [ INFO  ] Script started
+[17:38:48.360] [ INFO  ] [Settings] Timers: No timers registered
+[17:38:48.364] [ INFO  ] Settings read
+[17:38:48.365] [ INFO  ] Configs loaded: 0
+[17:38:51.703] [ INFO  ] [Compat] Setting up TrainerV
+[17:38:51.703] [ INFO  ] [Compat] TrainerV.asi not found
+[17:38:51.704] [ INFO  ] [Compat] Setting up DashHook
+[17:38:51.704] [ INFO  ] DashHook.dll not found
+[17:38:51.704] [ INFO  ] [Compat] Setting up DismembermentASI
+[17:38:51.704] [ INFO  ] [Compat] DismembermentASI.asi not found
+[17:38:51.705] [ INFO  ] [Compat] Setting up HandlingReplacement
+[17:38:51.705] [ INFO  ] [Compat] HandlingReplacement.asi not found
+[17:38:51.705] [ INFO  ] [Wheel] Initializing input devices
+[17:38:51.705] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:38:51.764] [ INFO  ] [Wheel] Found 0 device(s)
+[17:38:51.765] [ INFO  ] [Wheel] No devices detected
+[17:38:51.765] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:38:51.765] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:38:51.765] [ INFO  ] START: Initialization finished
+[17:38:51.766] [ INFO  ] [Telemetry] Starting UDP on 127.0.0.1:20777
+[17:38:58.367] [ INFO  ] Checking for updates
+[17:39:00.764] [WARNING] Update available: [v5.4.2]
+[17:39:00.764] [WARNING] Published at [2021-10-19T22:12:00Z]
+[17:39:00.764] [WARNING] Update description:
+## 5.4.1
+
+* Fix shift rate modifier not adhering to carcols modifiers
+* Fix broken telemetry since a recent SimHub update
+  * RPM is mapped between 0 and 8000 RPM by default
+  * Paired with Custom Torque Map 1.0.1, actual RPMs are used instead
+* Add 2189 and 2372 for FX_ASI_BUILD in FiveM
+[17:39:59.452] [ INFO  ] [Settings] Timers: No timers registered
+[17:39:59.455] [ INFO  ] Settings read
+[17:39:59.455] [ INFO  ] [Wheel] Initializing input devices
+[17:39:59.456] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:39:59.497] [ INFO  ] [Wheel] Found 0 device(s)
+[17:39:59.497] [ INFO  ] [Wheel] No devices detected
+[17:39:59.497] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:39:59.498] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:43:54.637] [ INFO  ] [Settings] Timers: No timers registered
+[17:43:54.643] [ INFO  ] Settings read
+[17:43:54.644] [ INFO  ] [Wheel] Initializing input devices
+[17:43:54.645] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:43:54.708] [ INFO  ] [Wheel] Found 0 device(s)
+[17:43:54.709] [ INFO  ] [Wheel] No devices detected
+[17:43:54.709] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:43:54.709] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:44:07.511] [WARNING] Animation: No valid animation found for layout hash 0xB0F486B5
+[17:44:22.543] [WARNING] Animation: No valid animation found for layout hash 0xB0F486B5
+[17:45:05.024] [ INFO  ] [Settings] Timers: No timers registered
+[17:45:05.030] [ INFO  ] Settings read
+[17:45:05.031] [ INFO  ] [Wheel] Initializing input devices
+[17:45:05.031] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:45:05.096] [ INFO  ] [Wheel] Found 0 device(s)
+[17:45:05.097] [ INFO  ] [Wheel] No devices detected
+[17:45:05.097] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:45:05.098] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:45:20.966] [WARNING] Animation: No valid animation found for layout hash 0x533E51C6
+[17:45:31.443] [ INFO  ] [Settings] Timers: No timers registered
+[17:45:31.447] [ INFO  ] Settings read
+[17:45:31.447] [ INFO  ] [Wheel] Initializing input devices
+[17:45:31.448] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:45:31.505] [ INFO  ] [Wheel] Found 0 device(s)
+[17:45:31.505] [ INFO  ] [Wheel] No devices detected
+[17:45:31.506] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:45:31.506] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:45:42.705] [ INFO  ] [Settings] Timers: No timers registered
+[17:45:42.709] [ INFO  ] Settings read
+[17:45:42.709] [ INFO  ] [Wheel] Initializing input devices
+[17:45:42.710] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:45:42.751] [ INFO  ] [Wheel] Found 0 device(s)
+[17:45:42.751] [ INFO  ] [Wheel] No devices detected
+[17:45:42.751] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:45:42.752] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:45:56.723] [ INFO  ] [Settings] Timers: No timers registered
+[17:45:56.727] [ INFO  ] Settings read
+[17:45:56.727] [ INFO  ] [Wheel] Initializing input devices
+[17:45:56.727] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:45:56.768] [ INFO  ] [Wheel] Found 0 device(s)
+[17:45:56.769] [ INFO  ] [Wheel] No devices detected
+[17:45:56.769] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:45:56.769] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:46:32.871] [ INFO  ] [Settings] Timers: No timers registered
+[17:46:32.876] [ INFO  ] Settings read
+[17:46:32.876] [ INFO  ] [Wheel] Initializing input devices
+[17:46:32.876] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:46:32.921] [ INFO  ] [Wheel] Found 0 device(s)
+[17:46:32.922] [ INFO  ] [Wheel] No devices detected
+[17:46:32.922] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:46:32.922] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:13.688] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:13.692] [ INFO  ] Settings read
+[17:48:13.692] [ INFO  ] [Wheel] Initializing input devices
+[17:48:13.693] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:13.744] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:13.744] [ INFO  ] [Wheel] No devices detected
+[17:48:13.744] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:13.745] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:16.840] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:16.844] [ INFO  ] Settings read
+[17:48:16.845] [ INFO  ] [Wheel] Initializing input devices
+[17:48:16.845] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:16.885] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:16.885] [ INFO  ] [Wheel] No devices detected
+[17:48:16.885] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:16.885] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:17.603] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:17.605] [ INFO  ] Settings read
+[17:48:17.606] [ INFO  ] [Wheel] Initializing input devices
+[17:48:17.606] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:17.644] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:17.645] [ INFO  ] [Wheel] No devices detected
+[17:48:17.645] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:17.645] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:18.140] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:18.142] [ INFO  ] Settings read
+[17:48:18.142] [ INFO  ] [Wheel] Initializing input devices
+[17:48:18.143] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:18.186] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:18.186] [ INFO  ] [Wheel] No devices detected
+[17:48:18.186] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:18.187] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:18.684] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:18.687] [ INFO  ] Settings read
+[17:48:18.687] [ INFO  ] [Wheel] Initializing input devices
+[17:48:18.687] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:18.727] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:18.727] [ INFO  ] [Wheel] No devices detected
+[17:48:18.727] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:18.728] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:24.618] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:24.623] [ INFO  ] Settings read
+[17:48:24.623] [ INFO  ] [Wheel] Initializing input devices
+[17:48:24.624] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:24.671] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:24.671] [ INFO  ] [Wheel] No devices detected
+[17:48:24.671] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:24.672] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:41.486] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:41.501] [ INFO  ] Settings read
+[17:48:41.501] [ INFO  ] [Wheel] Initializing input devices
+[17:48:41.502] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:41.549] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:41.549] [ INFO  ] [Wheel] No devices detected
+[17:48:41.549] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:41.550] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:44.165] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:44.168] [ INFO  ] Settings read
+[17:48:44.168] [ INFO  ] [Wheel] Initializing input devices
+[17:48:44.168] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:44.205] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:44.205] [ INFO  ] [Wheel] No devices detected
+[17:48:44.205] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:44.205] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:51.931] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:51.935] [ INFO  ] Settings read
+[17:48:51.935] [ INFO  ] [Wheel] Initializing input devices
+[17:48:51.936] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:51.982] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:51.982] [ INFO  ] [Wheel] No devices detected
+[17:48:51.982] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:51.983] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:48:58.847] [ INFO  ] [Settings] Timers: No timers registered
+[17:48:58.851] [ INFO  ] Settings read
+[17:48:58.852] [ INFO  ] [Wheel] Initializing input devices
+[17:48:58.852] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:48:58.903] [ INFO  ] [Wheel] Found 0 device(s)
+[17:48:58.903] [ INFO  ] [Wheel] No devices detected
+[17:48:58.904] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:48:58.904] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:49:18.116] [ INFO  ] [Settings] Timers: No timers registered
+[17:49:18.119] [ INFO  ] Settings read
+[17:49:18.119] [ INFO  ] [Wheel] Initializing input devices
+[17:49:18.120] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:49:18.166] [ INFO  ] [Wheel] Found 0 device(s)
+[17:49:18.166] [ INFO  ] [Wheel] No devices detected
+[17:49:18.166] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:49:18.167] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:49:19.329] [ INFO  ] [Settings] Timers: No timers registered
+[17:49:19.332] [ INFO  ] Settings read
+[17:49:19.332] [ INFO  ] [Wheel] Initializing input devices
+[17:49:19.332] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:49:19.376] [ INFO  ] [Wheel] Found 0 device(s)
+[17:49:19.376] [ INFO  ] [Wheel] No devices detected
+[17:49:19.376] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:49:19.377] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:51:08.561] [ INFO  ] [Settings] Timers: No timers registered
+[17:51:08.568] [ INFO  ] Settings read
+[17:51:08.569] [ INFO  ] [Wheel] Initializing input devices
+[17:51:08.569] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:51:08.623] [ INFO  ] [Wheel] Found 0 device(s)
+[17:51:08.623] [ INFO  ] [Wheel] No devices detected
+[17:51:08.624] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:51:08.624] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:51:09.623] [ INFO  ] [Settings] Timers: No timers registered
+[17:51:09.626] [ INFO  ] Settings read
+[17:51:09.626] [ INFO  ] [Wheel] Initializing input devices
+[17:51:09.626] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:51:09.669] [ INFO  ] [Wheel] Found 0 device(s)
+[17:51:09.670] [ INFO  ] [Wheel] No devices detected
+[17:51:09.670] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:51:09.670] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:52:40.074] [ INFO  ] [Settings] Timers: No timers registered
+[17:52:40.077] [ INFO  ] Settings read
+[17:52:40.078] [ INFO  ] [Wheel] Initializing input devices
+[17:52:40.078] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:52:40.123] [ INFO  ] [Wheel] Found 0 device(s)
+[17:52:40.124] [ INFO  ] [Wheel] No devices detected
+[17:52:40.124] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:52:40.124] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:52:42.487] [ INFO  ] [Settings] Timers: No timers registered
+[17:52:42.490] [ INFO  ] Settings read
+[17:52:42.490] [ INFO  ] [Wheel] Initializing input devices
+[17:52:42.491] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:52:42.527] [ INFO  ] [Wheel] Found 0 device(s)
+[17:52:42.527] [ INFO  ] [Wheel] No devices detected
+[17:52:42.528] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:52:42.528] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:53:12.827] [ INFO  ] [Settings] Timers: No timers registered
+[17:53:12.830] [ INFO  ] Settings read
+[17:53:12.830] [ INFO  ] [Wheel] Initializing input devices
+[17:53:12.830] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:53:12.879] [ INFO  ] [Wheel] Found 0 device(s)
+[17:53:12.879] [ INFO  ] [Wheel] No devices detected
+[17:53:12.879] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:53:12.880] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:53:14.194] [ INFO  ] [Settings] Timers: No timers registered
+[17:53:14.197] [ INFO  ] Settings read
+[17:53:14.198] [ INFO  ] [Wheel] Initializing input devices
+[17:53:14.198] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:53:14.246] [ INFO  ] [Wheel] Found 0 device(s)
+[17:53:14.247] [ INFO  ] [Wheel] No devices detected
+[17:53:14.247] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:53:14.247] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:53:37.230] [ INFO  ] [Settings] Timers: No timers registered
+[17:53:37.234] [ INFO  ] Settings read
+[17:53:37.234] [ INFO  ] [Wheel] Initializing input devices
+[17:53:37.235] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:53:37.290] [ INFO  ] [Wheel] Found 0 device(s)
+[17:53:37.291] [ INFO  ] [Wheel] No devices detected
+[17:53:37.291] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:53:37.291] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:53:37.813] [ INFO  ] [Settings] Timers: No timers registered
+[17:53:37.815] [ INFO  ] Settings read
+[17:53:37.816] [ INFO  ] [Wheel] Initializing input devices
+[17:53:37.816] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:53:37.857] [ INFO  ] [Wheel] Found 0 device(s)
+[17:53:37.858] [ INFO  ] [Wheel] No devices detected
+[17:53:37.858] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:53:37.858] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:55:33.626] [ INFO  ] [Settings] Timers: No timers registered
+[17:55:33.631] [ INFO  ] Settings read
+[17:55:33.631] [ INFO  ] [Wheel] Initializing input devices
+[17:55:33.631] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:55:33.680] [ INFO  ] [Wheel] Found 0 device(s)
+[17:55:33.681] [ INFO  ] [Wheel] No devices detected
+[17:55:33.681] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:55:33.681] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:55:34.122] [ INFO  ] [Settings] Timers: No timers registered
+[17:55:34.125] [ INFO  ] Settings read
+[17:55:34.125] [ INFO  ] [Wheel] Initializing input devices
+[17:55:34.125] [ INFO  ] [Wheel] Setting up DirectInput interface
+[17:55:34.173] [ INFO  ] [Wheel] Found 0 device(s)
+[17:55:34.173] [ INFO  ] [Wheel] No devices detected
+[17:55:34.174] [ INFO  ] [Wheel] Wheel not initialized, skipping FFB initialization
+[17:55:34.174] [ INFO  ] [Wheel] Steering wheel initialization finished
+[17:57:38.272] [ INFO  ] PATCH: Init shutdown
+[17:57:38.284] [ INFO  ] PATCH: Script shut down cleanly
+[17:57:38.284] [ ERROR ] [Compat] DashHook.dll FreeLibrary failed [126l]
